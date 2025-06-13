@@ -1,0 +1,133 @@
+Unnamed: 0: 43.0
+Identification: NE-5875
+Unnamed: 2: 87de8805
+Unnamed: 3: Arista
+Unnamed: 4: Model-223
+Unnamed: 5: 48c57ddf06c
+Unnamed: 6: 8.9.59
+Unnamed: 7: 2.5.78
+Unnamed: 8: Pune
+Unnamed: 9: admin31@company.com
+Unnamed: 10: 131 days
+Unnamed: 11: 2025-01-24
+Unnamed: 12: India
+Unnamed: 13: Jio
+Unnamed: 14: Router
+Unnamed: 15: 7
+Unnamed: 16: Intra-Country
+Network Interface Configuration: Unknown
+Unnamed: 18: 192.168.5.115
+Unnamed: 19: Unknown
+Unnamed: 20: 1f:ed:04:4e:88:33
+Unnamed: 21: 1500
+Unnamed: 22: Faulty
+Unnamed: 23: 4435 Mbps
+Unnamed: 24: Unknown
+Unnamed: 25: OK
+Unnamed: 26: Unknown
+Unnamed: 27: User Access Port
+Security Configuration: Inactive
+Unnamed: 30: Unknown
+Unnamed: 31: Unknown
+Routing Information: BGP
+Unnamed: 34: 322
+Unnamed: 35: 192.168.226.11
+Unnamed: 36: Active
+Unnamed: 37: Idle
+Unnamed: 38: 542
+QoS Settings: OK
+Unnamed: 40: Unknown
+Unnamed: 41: 231 Mbps
+Unnamed: 43: OK
+Unnamed: 44: OK
+Unnamed: 45: OK
+Unnamed: 47: OK
+Unnamed: 48: Yes
+Unnamed: 49: Operational
+Logging Configuration: Unknown
+Unnamed: 52: 192.168.225.197
+Hardware Details: Model-275
+Unnamed: 54: ed607410a16
+Unnamed: 55: Standalone
+Unnamed: 56: 300W
+Unnamed: 57: 64C
+Unnamed: 58: Inactive
+Unnamed: 60: 91%
+Unnamed: 61: 42%
+Unnamed: 62: Model-142
+Software Details: 1.3.40
+Unnamed: 64: OK
+Unnamed: 65: Unknown
+Unnamed: 66: 192.168.200.246
+Unnamed: 68: OK
+Unnamed: 69: BGP
+Performance Metrics: 66%
+Unnamed: 71: 13%
+Unnamed: 72: 26%
+Unnamed: 73: 2691 Mbps
+Unnamed: 74: 4.25%
+Unnamed: 75: 42 ms
+Unnamed: 76: 2.97%
+Unnamed: 77: 73 ms
+Unnamed: 78: 622
+Unnamed: 79: Unknown
+Unnamed: 80: OK
+Unnamed: 81: OK
+Configuration Management: 1.4.98
+Unnamed: 83: 2024-07-11
+Unnamed: 84: Pune
+Unnamed: 85: 6 changes
+Unnamed: 86: Idle
+Unnamed: 87: Not Available
+Unnamed: 88: No
+Unnamed: 89: OK
+Compliance and Audit: Disabled
+Unnamed: 91: 32%
+Unnamed: 92: 2025-03-24
+Unnamed: 93: Unknown
+Unnamed: 95: 549
+Redundancy and Failover: Idle
+Unnamed: 97: 216 days
+Unnamed: 98: Enabled
+Unnamed: 99: 950W
+Unnamed: 100: Unknown
+Unnamed: 101: 444
+Environmental Metrics: 50C
+Unnamed: 103: 41%
+Unnamed: 104: 35%
+Unnamed: 105: 216.1V
+Unnamed: 106: Enabled
+Virtualization Details: Unknown
+Unnamed: 108: 391
+Unnamed: 109: KVM
+Unnamed: 110: 12%
+Unnamed: 111: OK
+Cloud Integration: AWS
+Unnamed: 113: Enabled
+Unnamed: 114: 192.168.70.235
+Unnamed: 115: Token-Based
+Unnamed: 116: OK
+Unnamed: 117: 665
+Application Layer Details: AppA
+Unnamed: 119: 3.0.44
+Unnamed: 120: 21
+Unnamed: 121: Operational
+Unnamed: 122: 103 days
+Unnamed: 123: 33
+Protocols Supported: 2.1.10
+Unnamed: 125: OK
+Unnamed: 126: Unknown
+Unnamed: 128: 8.5.69
+User Management: 532
+Unnamed: 131: 440
+Unnamed: 132: 2024-09-21
+Unnamed: 133: Yes
+Unnamed: 134: Yes
+Unnamed: 135: OK
+Backup and Recovery: Not Available
+Unnamed: 137: 2025-03-11
+Unnamed: 138: 299 days
+Unnamed: 140: Available
+Unnamed: 141: Operational
+Identification.1: 2021
+Unnamed: 143: 7.0

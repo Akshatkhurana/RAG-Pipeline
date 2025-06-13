@@ -1,0 +1,133 @@
+Unnamed: 0: 76.0
+Identification: NE-5431
+Unnamed: 2: c1776e36
+Unnamed: 3: Arista
+Unnamed: 4: Model-422
+Unnamed: 5: c2786615619
+Unnamed: 6: 3.3.14
+Unnamed: 7: 5.0.89
+Unnamed: 8: Chandigarh
+Unnamed: 9: admin84@company.com
+Unnamed: 10: 338 days
+Unnamed: 11: 2024-08-07
+Unnamed: 12: India
+Unnamed: 13: Vodafone Idea
+Unnamed: 14: Gateway
+Unnamed: 15: 8
+Unnamed: 16: Intra-Country
+Network Interface Configuration: OK
+Unnamed: 18: 192.168.245.65
+Unnamed: 19: OK
+Unnamed: 20: 48:cf:a5:31:14:5c
+Unnamed: 21: 9000
+Unnamed: 22: Operational
+Unnamed: 23: 2182 Mbps
+Unnamed: 24: OK
+Unnamed: 25: OK
+Unnamed: 26: Unknown
+Unnamed: 27: Management Interface
+Security Configuration: Faulty
+Unnamed: 29: OK
+Unnamed: 30: OK
+Unnamed: 31: OK
+Routing Information: OSPF
+Unnamed: 34: 890
+Unnamed: 35: 192.168.155.135
+Unnamed: 36: Inactive
+Unnamed: 37: Inactive
+Unnamed: 38: 398
+Unnamed: 41: 451 Mbps
+Unnamed: 42: OK
+Unnamed: 43: OK
+Unnamed: 44: OK
+Unnamed: 46: OK
+Unnamed: 47: OK
+Unnamed: 48: Yes
+Unnamed: 49: Idle
+Unnamed: 50: Unknown
+Unnamed: 52: 192.168.50.131
+Hardware Details: Model-769
+Unnamed: 54: e2a465c3537
+Unnamed: 55: Standalone
+Unnamed: 56: 639W
+Unnamed: 57: 54C
+Unnamed: 58: Active
+Unnamed: 59: Unknown
+Unnamed: 60: 44%
+Unnamed: 61: 54%
+Unnamed: 62: Model-768
+Software Details: 4.2.62
+Unnamed: 66: 192.168.24.44
+Unnamed: 67: OK
+Unnamed: 68: Unknown
+Unnamed: 69: HTTPS
+Performance Metrics: 91%
+Unnamed: 71: 56%
+Unnamed: 72: 40%
+Unnamed: 73: 2763 Mbps
+Unnamed: 74: 4.95%
+Unnamed: 75: 30 ms
+Unnamed: 76: 1.79%
+Unnamed: 77: 61 ms
+Unnamed: 78: 511
+Unnamed: 79: Unknown
+Unnamed: 80: Unknown
+Unnamed: 81: OK
+Configuration Management: 6.2.46
+Unnamed: 83: 2024-06-11
+Unnamed: 84: Chandigarh
+Unnamed: 85: 4 changes
+Unnamed: 86: Inactive
+Unnamed: 87: Available
+Unnamed: 88: Yes
+Unnamed: 89: OK
+Compliance and Audit: Disabled
+Unnamed: 91: 72%
+Unnamed: 92: 2024-09-04
+Unnamed: 93: OK
+Unnamed: 94: OK
+Unnamed: 95: 705
+Redundancy and Failover: Faulty
+Unnamed: 97: 88 days
+Unnamed: 98: Operational
+Unnamed: 99: 445W
+Unnamed: 100: Unknown
+Unnamed: 101: 430
+Environmental Metrics: 31C
+Unnamed: 103: 41%
+Unnamed: 104: 27%
+Unnamed: 105: 174.0V
+Unnamed: 106: Faulty
+Unnamed: 108: 737
+Unnamed: 109: Hyper-V
+Unnamed: 110: 55%
+Unnamed: 111: OK
+Cloud Integration: AWS
+Unnamed: 113: Inactive
+Unnamed: 114: 192.168.108.106
+Unnamed: 115: OAuth2
+Unnamed: 116: Unknown
+Unnamed: 117: 958
+Application Layer Details: AppC
+Unnamed: 119: 9.8.38
+Unnamed: 120: 22
+Unnamed: 121: Operational
+Unnamed: 122: 183 days
+Unnamed: 123: 192
+Protocols Supported: 9.4.47
+Unnamed: 126: OK
+Unnamed: 127: OK
+Unnamed: 128: 6.4.47
+Unnamed: 129: OK
+User Management: 214
+Unnamed: 131: 803
+Unnamed: 132: 2024-06-26
+Unnamed: 133: Yes
+Unnamed: 134: Yes
+Backup and Recovery: Not Available
+Unnamed: 137: 2025-04-11
+Unnamed: 138: 337 days
+Unnamed: 140: Available
+Unnamed: 141: Inactive
+Identification.1: 2021
+Unnamed: 143: 7.0

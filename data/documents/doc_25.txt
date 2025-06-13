@@ -1,0 +1,125 @@
+Unnamed: 0: 22.0
+Identification: NE-5226
+Unnamed: 2: 631f27a3
+Unnamed: 3: Juniper
+Unnamed: 4: Model-680
+Unnamed: 5: b4e1ef74b95
+Unnamed: 6: 2.4.27
+Unnamed: 7: 9.3.20
+Unnamed: 8: Ahmedabad
+Unnamed: 9: admin28@company.com
+Unnamed: 10: 157 days
+Unnamed: 11: 2024-08-13
+Unnamed: 12: India
+Unnamed: 13: Vodafone Idea
+Unnamed: 14: Router
+Unnamed: 15: 1
+Unnamed: 16: Local
+Network Interface Configuration: Unknown
+Unnamed: 18: 192.168.91.239
+Unnamed: 19: Unknown
+Unnamed: 20: e1:b0:f1:73:bb:45
+Unnamed: 21: 1500
+Unnamed: 22: Active
+Unnamed: 23: 4378 Mbps
+Unnamed: 24: OK
+Unnamed: 26: OK
+Unnamed: 27: User Access Port
+Security Configuration: Faulty
+Unnamed: 31: OK
+Routing Information: OSPF
+Unnamed: 34: 449
+Unnamed: 35: 192.168.33.222
+Unnamed: 36: Disabled
+Unnamed: 37: Enabled
+Unnamed: 38: 532
+Unnamed: 41: 198 Mbps
+Unnamed: 42: Unknown
+Unnamed: 43: Unknown
+Unnamed: 44: Unknown
+Unnamed: 48: Yes
+Unnamed: 49: Enabled
+Logging Configuration: OK
+Unnamed: 52: 192.168.230.206
+Hardware Details: Model-737
+Unnamed: 54: 72f85707fb9
+Unnamed: 55: Blade
+Unnamed: 56: 719W
+Unnamed: 57: 45C
+Unnamed: 58: Faulty
+Unnamed: 59: OK
+Unnamed: 60: 57%
+Unnamed: 61: 75%
+Unnamed: 62: Model-260
+Software Details: 3.8.28
+Unnamed: 64: OK
+Unnamed: 65: Unknown
+Unnamed: 66: 192.168.74.63
+Unnamed: 68: OK
+Unnamed: 69: OSPF
+Performance Metrics: 65%
+Unnamed: 71: 15%
+Unnamed: 72: 16%
+Unnamed: 73: 4285 Mbps
+Unnamed: 74: 0.94%
+Unnamed: 75: 17 ms
+Unnamed: 76: 3.62%
+Unnamed: 77: 42 ms
+Unnamed: 78: 801
+Configuration Management: 5.7.24
+Unnamed: 83: 2024-11-15
+Unnamed: 84: Ahmedabad
+Unnamed: 85: 8 changes
+Unnamed: 86: Disabled
+Unnamed: 87: Not Available
+Unnamed: 88: Yes
+Unnamed: 89: Unknown
+Compliance and Audit: Enabled
+Unnamed: 91: 37%
+Unnamed: 92: 2024-11-01
+Unnamed: 95: 897
+Redundancy and Failover: Active
+Unnamed: 97: 47 days
+Unnamed: 98: Enabled
+Unnamed: 99: 988W
+Unnamed: 101: 424
+Environmental Metrics: 41C
+Unnamed: 103: 53%
+Unnamed: 104: 27%
+Unnamed: 105: 239.7V
+Unnamed: 106: Active
+Virtualization Details: Unknown
+Unnamed: 108: 944
+Unnamed: 109: KVM
+Unnamed: 110: 7%
+Unnamed: 111: OK
+Cloud Integration: Azure
+Unnamed: 113: Disabled
+Unnamed: 114: 192.168.235.116
+Unnamed: 115: OAuth2
+Unnamed: 117: 287
+Application Layer Details: AppA
+Unnamed: 119: 8.3.1
+Unnamed: 120: 21
+Unnamed: 121: Enabled
+Unnamed: 122: 257 days
+Unnamed: 123: 282
+Protocols Supported: 1.3.49
+Unnamed: 125: OK
+Unnamed: 126: Unknown
+Unnamed: 127: Unknown
+Unnamed: 128: 9.0.81
+User Management: 632
+Unnamed: 131: 516
+Unnamed: 132: 2024-07-24
+Unnamed: 133: Yes
+Unnamed: 134: No
+Unnamed: 135: Unknown
+Backup and Recovery: Available
+Unnamed: 137: 2024-11-22
+Unnamed: 138: 188 days
+Unnamed: 139: OK
+Unnamed: 140: Not Available
+Unnamed: 141: Faulty
+Identification.1: 2017
+Unnamed: 143: 3.0, 3.1

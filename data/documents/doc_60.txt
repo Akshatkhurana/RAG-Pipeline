@@ -1,0 +1,132 @@
+Unnamed: 0: 57.0
+Identification: NE-2363
+Unnamed: 2: 3618448d
+Unnamed: 3: Cisco
+Unnamed: 4: Model-411
+Unnamed: 5: 8bb1d700f92
+Unnamed: 6: 6.1.78
+Unnamed: 7: 3.9.21
+Unnamed: 8: Chennai
+Unnamed: 9: admin89@company.com
+Unnamed: 10: 111 days
+Unnamed: 11: 2024-12-10
+Unnamed: 12: India
+Unnamed: 13: T-Mobile
+Unnamed: 14: Router
+Unnamed: 15: 7
+Unnamed: 16: Intra-Country
+Network Interface Configuration: Unknown
+Unnamed: 18: 192.168.192.13
+Unnamed: 19: Unknown
+Unnamed: 20: 96:9d:73:d6:4d:43
+Unnamed: 21: 1500
+Unnamed: 22: Faulty
+Unnamed: 23: 8385 Mbps
+Unnamed: 26: OK
+Unnamed: 27: Uplink Port
+Security Configuration: Faulty
+Unnamed: 29: OK
+Unnamed: 30: OK
+Unnamed: 31: Unknown
+Unnamed: 32: Unknown
+Routing Information: RIP
+Unnamed: 34: 361
+Unnamed: 35: 192.168.233.152
+Unnamed: 36: Disabled
+Unnamed: 37: Active
+Unnamed: 38: 960
+Unnamed: 40: Unknown
+Unnamed: 41: 658 Mbps
+Unnamed: 42: Unknown
+Unnamed: 45: Unknown
+Unnamed: 47: OK
+Unnamed: 48: Yes
+Unnamed: 49: Idle
+Unnamed: 50: Unknown
+Logging Configuration: Unknown
+Unnamed: 52: 192.168.200.68
+Hardware Details: Model-513
+Unnamed: 54: d472db05c34
+Unnamed: 55: Blade
+Unnamed: 56: 736W
+Unnamed: 57: 56C
+Unnamed: 58: Inactive
+Unnamed: 59: OK
+Unnamed: 60: 64%
+Unnamed: 61: 89%
+Unnamed: 62: Model-973
+Software Details: 2.9.20
+Unnamed: 64: Unknown
+Unnamed: 65: OK
+Unnamed: 66: 192.168.26.26
+Unnamed: 67: Unknown
+Unnamed: 69: BGP
+Performance Metrics: 64%
+Unnamed: 71: 95%
+Unnamed: 72: 20%
+Unnamed: 73: 4611 Mbps
+Unnamed: 74: 2.02%
+Unnamed: 75: 54 ms
+Unnamed: 76: 0.80%
+Unnamed: 77: 67 ms
+Unnamed: 78: 261
+Unnamed: 79: OK
+Unnamed: 80: OK
+Unnamed: 81: Unknown
+Configuration Management: 3.3.24
+Unnamed: 83: 2025-02-03
+Unnamed: 84: Chennai
+Unnamed: 85: 1 changes
+Unnamed: 86: Faulty
+Unnamed: 87: Available
+Unnamed: 88: No
+Unnamed: 89: OK
+Compliance and Audit: Active
+Unnamed: 91: 77%
+Unnamed: 92: 2025-06-01
+Unnamed: 93: Unknown
+Unnamed: 94: OK
+Unnamed: 95: 648
+Redundancy and Failover: Operational
+Unnamed: 97: 225 days
+Unnamed: 98: Idle
+Unnamed: 99: 599W
+Unnamed: 100: Unknown
+Unnamed: 101: 879
+Environmental Metrics: 32C
+Unnamed: 103: 63%
+Unnamed: 104: 88%
+Unnamed: 105: 177.1V
+Unnamed: 106: Active
+Virtualization Details: OK
+Unnamed: 108: 88
+Unnamed: 109: VMware
+Unnamed: 110: 86%
+Cloud Integration: Azure
+Unnamed: 113: Faulty
+Unnamed: 114: 192.168.67.12
+Unnamed: 115: API Key
+Unnamed: 117: 831
+Application Layer Details: AppA
+Unnamed: 119: 3.6.4
+Unnamed: 120: 80
+Unnamed: 121: Operational
+Unnamed: 122: 102 days
+Unnamed: 123: 298
+Protocols Supported: 8.6.10
+Unnamed: 126: OK
+Unnamed: 128: 9.0.76
+Unnamed: 129: OK
+User Management: 481
+Unnamed: 131: 874
+Unnamed: 132: 2024-12-19
+Unnamed: 133: Yes
+Unnamed: 134: Yes
+Backup and Recovery: Available
+Unnamed: 137: 2024-06-27
+Unnamed: 138: 254 days
+Unnamed: 139: Unknown
+Unnamed: 140: Not Available
+Unnamed: 141: Inactive
+Identification.1: 2016
+Unnamed: 143: 2.0, 2.1, 2.2, 2.3

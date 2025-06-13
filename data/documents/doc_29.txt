@@ -1,0 +1,129 @@
+Unnamed: 0: 26.0
+Identification: NE-5508
+Unnamed: 2: 9062b0a8
+Unnamed: 3: Arista
+Unnamed: 4: Model-249
+Unnamed: 5: 536062591c9
+Unnamed: 6: 3.2.6
+Unnamed: 7: 2.2.5
+Unnamed: 8: Kolkata
+Unnamed: 9: admin97@company.com
+Unnamed: 10: 140 days
+Unnamed: 11: 2025-05-27
+Unnamed: 12: India
+Unnamed: 13: AT&T
+Unnamed: 14: Router
+Unnamed: 15: 4
+Unnamed: 16: Zonal
+Network Interface Configuration: OK
+Unnamed: 18: 192.168.154.171
+Unnamed: 19: OK
+Unnamed: 20: 46:cd:be:bd:b9:28
+Unnamed: 21: 1500
+Unnamed: 22: Operational
+Unnamed: 23: 5263 Mbps
+Unnamed: 25: Unknown
+Unnamed: 26: Unknown
+Unnamed: 27: User Access Port
+Security Configuration: Disabled
+Unnamed: 29: OK
+Unnamed: 31: Unknown
+Routing Information: RIP
+Unnamed: 34: 973
+Unnamed: 35: 192.168.94.107
+Unnamed: 36: Faulty
+Unnamed: 37: Operational
+Unnamed: 38: 858
+Unnamed: 40: OK
+Unnamed: 41: 565 Mbps
+Unnamed: 42: Unknown
+Unnamed: 43: Unknown
+Unnamed: 44: Unknown
+Unnamed: 45: Unknown
+Unnamed: 46: Unknown
+Unnamed: 47: Unknown
+Unnamed: 48: No
+Unnamed: 49: Enabled
+Unnamed: 50: Unknown
+Logging Configuration: OK
+Unnamed: 52: 192.168.205.80
+Hardware Details: Model-237
+Unnamed: 54: 55f3e271026
+Unnamed: 55: Rackmount
+Unnamed: 56: 959W
+Unnamed: 57: 46C
+Unnamed: 58: Faulty
+Unnamed: 60: 15%
+Unnamed: 61: 19%
+Unnamed: 62: Model-834
+Software Details: 5.9.4
+Unnamed: 64: OK
+Unnamed: 65: OK
+Unnamed: 66: 192.168.210.7
+Unnamed: 67: Unknown
+Unnamed: 69: RIP
+Performance Metrics: 14%
+Unnamed: 71: 31%
+Unnamed: 72: 100%
+Unnamed: 73: 6786 Mbps
+Unnamed: 74: 3.24%
+Unnamed: 75: 88 ms
+Unnamed: 76: 2.86%
+Unnamed: 77: 30 ms
+Unnamed: 78: 846
+Unnamed: 79: OK
+Unnamed: 80: OK
+Unnamed: 81: OK
+Configuration Management: 9.4.82
+Unnamed: 83: 2025-02-06
+Unnamed: 84: Kolkata
+Unnamed: 85: 9 changes
+Unnamed: 86: Enabled
+Unnamed: 87: Not Available
+Unnamed: 88: Yes
+Compliance and Audit: Disabled
+Unnamed: 91: 84%
+Unnamed: 92: 2025-04-05
+Unnamed: 95: 584
+Redundancy and Failover: Operational
+Unnamed: 97: 178 days
+Unnamed: 98: Active
+Unnamed: 99: 391W
+Unnamed: 101: 58
+Environmental Metrics: 48C
+Unnamed: 103: 62%
+Unnamed: 104: 61%
+Unnamed: 105: 218.3V
+Unnamed: 106: Inactive
+Unnamed: 108: 918
+Unnamed: 109: Hyper-V
+Unnamed: 110: 12%
+Unnamed: 111: OK
+Cloud Integration: GCP
+Unnamed: 113: Enabled
+Unnamed: 114: 192.168.140.104
+Unnamed: 115: OAuth2
+Unnamed: 117: 962
+Application Layer Details: AppC
+Unnamed: 119: 10.6.45
+Unnamed: 120: 21
+Unnamed: 121: Enabled
+Unnamed: 122: 116 days
+Unnamed: 123: 90
+Protocols Supported: 3.7.67
+Unnamed: 126: Unknown
+Unnamed: 127: Unknown
+Unnamed: 128: 3.1.62
+User Management: 158
+Unnamed: 131: 983
+Unnamed: 132: 2024-07-19
+Unnamed: 133: No
+Unnamed: 134: Yes
+Unnamed: 135: OK
+Backup and Recovery: Available
+Unnamed: 137: 2024-12-13
+Unnamed: 138: 3 days
+Unnamed: 140: Available
+Unnamed: 141: Inactive
+Identification.1: 2017
+Unnamed: 143: 3.0, 3.1

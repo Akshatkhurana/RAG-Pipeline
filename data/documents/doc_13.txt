@@ -1,0 +1,132 @@
+Unnamed: 0: 10.0
+Identification: NE-5092
+Unnamed: 2: 4cfd87cb
+Unnamed: 3: Huawei
+Unnamed: 4: Model-816
+Unnamed: 5: 9d6f2c3c658
+Unnamed: 6: 7.7.59
+Unnamed: 7: 4.7.82
+Unnamed: 8: Hyderabad
+Unnamed: 9: admin73@company.com
+Unnamed: 10: 107 days
+Unnamed: 11: 2025-02-01
+Unnamed: 12: India
+Unnamed: 13: Airtel
+Unnamed: 14: Gateway
+Unnamed: 15: 10
+Unnamed: 16: Inter-Country
+Network Interface Configuration: OK
+Unnamed: 18: 192.168.228.226
+Unnamed: 19: Unknown
+Unnamed: 20: 5f:ef:90:c6:cf:5d
+Unnamed: 21: 1500
+Unnamed: 22: Operational
+Unnamed: 23: 1673 Mbps
+Unnamed: 25: Unknown
+Unnamed: 26: OK
+Unnamed: 27: Uplink Port
+Security Configuration: Idle
+Unnamed: 29: Unknown
+Unnamed: 30: Unknown
+Unnamed: 31: OK
+Routing Information: HTTP
+Unnamed: 34: 351
+Unnamed: 35: 192.168.178.251
+Unnamed: 36: Idle
+Unnamed: 37: Inactive
+Unnamed: 38: 656
+QoS Settings: OK
+Unnamed: 40: Unknown
+Unnamed: 41: 339 Mbps
+Unnamed: 42: Unknown
+Unnamed: 44: Unknown
+Unnamed: 45: OK
+Unnamed: 46: Unknown
+Unnamed: 47: Unknown
+Unnamed: 48: Yes
+Unnamed: 49: Disabled
+Unnamed: 50: OK
+Unnamed: 52: 192.168.73.245
+Hardware Details: Model-139
+Unnamed: 54: 46bd3e23c2a
+Unnamed: 55: Blade
+Unnamed: 56: 480W
+Unnamed: 57: 73C
+Unnamed: 58: Operational
+Unnamed: 60: 48%
+Unnamed: 61: 92%
+Unnamed: 62: Model-985
+Software Details: 9.4.29
+Unnamed: 66: 192.168.30.95
+Unnamed: 67: Unknown
+Unnamed: 68: Unknown
+Unnamed: 69: SNMP
+Performance Metrics: 38%
+Unnamed: 71: 22%
+Unnamed: 72: 45%
+Unnamed: 73: 6694 Mbps
+Unnamed: 74: 0.28%
+Unnamed: 75: 49 ms
+Unnamed: 76: 2.07%
+Unnamed: 77: 51 ms
+Unnamed: 78: 266
+Unnamed: 79: Unknown
+Unnamed: 80: Unknown
+Configuration Management: 7.9.46
+Unnamed: 83: 2024-10-02
+Unnamed: 84: Hyderabad
+Unnamed: 85: 9 changes
+Unnamed: 86: Idle
+Unnamed: 87: Not Available
+Unnamed: 88: Yes
+Unnamed: 89: OK
+Compliance and Audit: Faulty
+Unnamed: 91: 66%
+Unnamed: 92: 2024-06-25
+Unnamed: 93: OK
+Unnamed: 94: Unknown
+Unnamed: 95: 24
+Redundancy and Failover: Idle
+Unnamed: 97: 349 days
+Unnamed: 98: Faulty
+Unnamed: 99: 239W
+Unnamed: 100: Unknown
+Unnamed: 101: 392
+Environmental Metrics: 66C
+Unnamed: 103: 65%
+Unnamed: 104: 36%
+Unnamed: 105: 210.0V
+Unnamed: 106: Enabled
+Virtualization Details: OK
+Unnamed: 108: 685
+Unnamed: 109: KVM
+Unnamed: 110: 98%
+Cloud Integration: GCP
+Unnamed: 113: Active
+Unnamed: 114: 192.168.64.64
+Unnamed: 115: Token-Based
+Unnamed: 116: OK
+Unnamed: 117: 886
+Application Layer Details: AppC
+Unnamed: 119: 6.1.5
+Unnamed: 120: 22
+Unnamed: 121: Active
+Unnamed: 122: 17 days
+Unnamed: 123: 304
+Protocols Supported: 10.5.24
+Unnamed: 125: Unknown
+Unnamed: 128: 3.3.83
+Unnamed: 129: Unknown
+User Management: 129
+Unnamed: 131: 50
+Unnamed: 132: 2024-11-18
+Unnamed: 133: No
+Unnamed: 134: No
+Backup and Recovery: Available
+Unnamed: 137: 2025-03-10
+Unnamed: 138: 58 days
+Unnamed: 139: Unknown
+Unnamed: 140: Not Available
+Unnamed: 141: Enabled
+Identification.1: 2018
+Unnamed: 143: 4.0

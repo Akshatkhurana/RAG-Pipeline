@@ -1,0 +1,134 @@
+Unnamed: 0: 200.0
+Identification: NE-6978
+Unnamed: 2: 81b98f1a
+Unnamed: 3: Arista
+Unnamed: 4: Model-586
+Unnamed: 5: 7d38061cbc5
+Unnamed: 6: 1.0.74
+Unnamed: 7: 6.3.62
+Unnamed: 8: Hyderabad
+Unnamed: 9: admin21@company.com
+Unnamed: 10: 291 days
+Unnamed: 11: 2024-10-09
+Unnamed: 12: India
+Unnamed: 13: Airtel
+Unnamed: 14: Switch
+Unnamed: 15: 3
+Unnamed: 16: Zonal
+Network Interface Configuration: Unknown
+Unnamed: 18: 192.168.60.43
+Unnamed: 19: Unknown
+Unnamed: 20: be:77:02:35:98:ba
+Unnamed: 21: 9000
+Unnamed: 22: Active
+Unnamed: 23: 5894 Mbps
+Unnamed: 24: Unknown
+Unnamed: 25: Unknown
+Unnamed: 26: OK
+Unnamed: 27: Uplink Port
+Security Configuration: Idle
+Unnamed: 30: OK
+Unnamed: 31: Unknown
+Unnamed: 32: OK
+Routing Information: HTTPS
+Unnamed: 34: 98
+Unnamed: 35: 192.168.142.252
+Unnamed: 36: Active
+Unnamed: 37: Disabled
+Unnamed: 38: 965
+QoS Settings: Unknown
+Unnamed: 40: Unknown
+Unnamed: 41: 434 Mbps
+Unnamed: 42: OK
+Unnamed: 43: Unknown
+Unnamed: 46: OK
+Unnamed: 47: OK
+Unnamed: 48: Yes
+Unnamed: 49: Disabled
+Unnamed: 52: 192.168.54.26
+Hardware Details: Model-622
+Unnamed: 54: 47ff3c6c4a6
+Unnamed: 55: Standalone
+Unnamed: 56: 762W
+Unnamed: 57: 37C
+Unnamed: 58: Idle
+Unnamed: 59: OK
+Unnamed: 60: 87%
+Unnamed: 61: 49%
+Unnamed: 62: Model-300
+Software Details: 6.5.4
+Unnamed: 66: 192.168.18.254
+Unnamed: 67: Unknown
+Unnamed: 68: OK
+Unnamed: 69: SSH
+Performance Metrics: 57%
+Unnamed: 71: 49%
+Unnamed: 72: 2%
+Unnamed: 73: 7731 Mbps
+Unnamed: 74: 4.24%
+Unnamed: 75: 100 ms
+Unnamed: 76: 0.91%
+Unnamed: 77: 2 ms
+Unnamed: 78: 439
+Unnamed: 79: OK
+Unnamed: 81: Unknown
+Configuration Management: 5.4.59
+Unnamed: 83: 2024-11-17
+Unnamed: 84: Hyderabad
+Unnamed: 85: 6 changes
+Unnamed: 86: Enabled
+Unnamed: 87: Not Available
+Unnamed: 88: No
+Unnamed: 89: OK
+Compliance and Audit: Enabled
+Unnamed: 91: 77%
+Unnamed: 92: 2025-02-13
+Unnamed: 93: OK
+Unnamed: 94: OK
+Unnamed: 95: 52
+Redundancy and Failover: Active
+Unnamed: 97: 82 days
+Unnamed: 98: Disabled
+Unnamed: 99: 799W
+Unnamed: 100: Unknown
+Unnamed: 101: 141
+Environmental Metrics: 55C
+Unnamed: 103: 50%
+Unnamed: 104: 49%
+Unnamed: 105: 193.5V
+Unnamed: 106: Enabled
+Virtualization Details: Unknown
+Unnamed: 108: 245
+Unnamed: 109: KVM
+Unnamed: 110: 56%
+Unnamed: 111: Unknown
+Cloud Integration: AWS
+Unnamed: 113: Inactive
+Unnamed: 114: 192.168.124.18
+Unnamed: 115: OAuth2
+Unnamed: 117: 683
+Application Layer Details: AppB
+Unnamed: 119: 10.2.49
+Unnamed: 120: 21
+Unnamed: 121: Inactive
+Unnamed: 122: 352 days
+Unnamed: 123: 490
+Protocols Supported: 1.7.28
+Unnamed: 125: OK
+Unnamed: 126: OK
+Unnamed: 127: Unknown
+Unnamed: 128: 10.1.45
+Unnamed: 129: OK
+User Management: 537
+Unnamed: 131: 548
+Unnamed: 132: 2025-04-21
+Unnamed: 133: Yes
+Unnamed: 134: Yes
+Backup and Recovery: Not Available
+Unnamed: 137: 2025-03-07
+Unnamed: 138: 361 days
+Unnamed: 139: Unknown
+Unnamed: 140: Available
+Unnamed: 141: Enabled
+Identification.1: 2024
+Unnamed: 143: 10.0, 10.1, 10.2

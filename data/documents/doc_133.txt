@@ -1,0 +1,132 @@
+Unnamed: 0: 130.0
+Identification: NE-3876
+Unnamed: 2: ea034cac
+Unnamed: 3: Juniper
+Unnamed: 4: Model-654
+Unnamed: 5: 90f1b6746a4
+Unnamed: 6: 7.9.10
+Unnamed: 7: 6.2.44
+Unnamed: 8: Hyderabad
+Unnamed: 9: admin81@company.com
+Unnamed: 10: 259 days
+Unnamed: 11: 2025-02-21
+Unnamed: 12: India
+Unnamed: 13: Jio
+Unnamed: 14: Router
+Unnamed: 15: 4
+Unnamed: 16: Zonal
+Network Interface Configuration: Unknown
+Unnamed: 18: 192.168.172.174
+Unnamed: 20: 91:69:e8:ea:e4:c6
+Unnamed: 21: 1500
+Unnamed: 22: Disabled
+Unnamed: 23: 6428 Mbps
+Unnamed: 25: OK
+Unnamed: 26: Unknown
+Unnamed: 27: User Access Port
+Security Configuration: Idle
+Unnamed: 29: OK
+Unnamed: 31: OK
+Unnamed: 32: OK
+Routing Information: HTTPS
+Unnamed: 34: 715
+Unnamed: 35: 192.168.73.206
+Unnamed: 36: Faulty
+Unnamed: 37: Faulty
+Unnamed: 38: 536
+QoS Settings: OK
+Unnamed: 40: Unknown
+Unnamed: 41: 183 Mbps
+Unnamed: 43: Unknown
+Unnamed: 45: OK
+Unnamed: 46: Unknown
+Unnamed: 48: No
+Unnamed: 49: Enabled
+Unnamed: 52: 192.168.243.86
+Hardware Details: Model-504
+Unnamed: 54: ecaf189e31a
+Unnamed: 55: Blade
+Unnamed: 56: 268W
+Unnamed: 57: 25C
+Unnamed: 58: Idle
+Unnamed: 59: Unknown
+Unnamed: 60: 69%
+Unnamed: 61: 75%
+Unnamed: 62: Model-276
+Software Details: 3.2.36
+Unnamed: 64: Unknown
+Unnamed: 65: OK
+Unnamed: 66: 192.168.221.104
+Unnamed: 67: Unknown
+Unnamed: 69: RIP
+Performance Metrics: 23%
+Unnamed: 71: 6%
+Unnamed: 72: 96%
+Unnamed: 73: 7561 Mbps
+Unnamed: 74: 1.38%
+Unnamed: 75: 31 ms
+Unnamed: 76: 2.61%
+Unnamed: 77: 4 ms
+Unnamed: 78: 51
+Unnamed: 81: Unknown
+Configuration Management: 9.9.58
+Unnamed: 83: 2024-08-04
+Unnamed: 84: Hyderabad
+Unnamed: 85: 8 changes
+Unnamed: 86: Enabled
+Unnamed: 87: Available
+Unnamed: 88: Yes
+Unnamed: 89: OK
+Compliance and Audit: Inactive
+Unnamed: 91: 54%
+Unnamed: 92: 2025-03-02
+Unnamed: 93: OK
+Unnamed: 94: OK
+Unnamed: 95: 383
+Redundancy and Failover: Active
+Unnamed: 97: 289 days
+Unnamed: 98: Enabled
+Unnamed: 99: 297W
+Unnamed: 100: OK
+Unnamed: 101: 98
+Environmental Metrics: 41C
+Unnamed: 103: 60%
+Unnamed: 104: 19%
+Unnamed: 105: 203.9V
+Unnamed: 106: Active
+Virtualization Details: Unknown
+Unnamed: 108: 719
+Unnamed: 109: KVM
+Unnamed: 110: 28%
+Unnamed: 111: OK
+Cloud Integration: GCP
+Unnamed: 113: Enabled
+Unnamed: 114: 192.168.171.107
+Unnamed: 115: Token-Based
+Unnamed: 116: OK
+Unnamed: 117: 32
+Application Layer Details: AppC
+Unnamed: 119: 7.7.37
+Unnamed: 120: 8080
+Unnamed: 121: Enabled
+Unnamed: 122: 331 days
+Unnamed: 123: 74
+Protocols Supported: 1.0.41
+Unnamed: 126: OK
+Unnamed: 127: Unknown
+Unnamed: 128: 1.7.37
+Unnamed: 129: Unknown
+User Management: 54
+Unnamed: 131: 807
+Unnamed: 132: 2024-07-02
+Unnamed: 133: Yes
+Unnamed: 134: Yes
+Unnamed: 135: OK
+Backup and Recovery: Available
+Unnamed: 137: 2024-11-09
+Unnamed: 138: 276 days
+Unnamed: 139: Unknown
+Unnamed: 140: Available
+Unnamed: 141: Faulty
+Identification.1: 2025
+Unnamed: 143: 11.0

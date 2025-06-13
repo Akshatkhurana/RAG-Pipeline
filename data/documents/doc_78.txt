@@ -1,0 +1,129 @@
+Unnamed: 0: 75.0
+Identification: NE-7532
+Unnamed: 2: ec46d0a1
+Unnamed: 3: Juniper
+Unnamed: 4: Model-390
+Unnamed: 5: 3b7fb45877a
+Unnamed: 6: 2.3.78
+Unnamed: 7: 1.1.66
+Unnamed: 8: Ahmedabad
+Unnamed: 9: admin74@company.com
+Unnamed: 10: 48 days
+Unnamed: 11: 2024-07-14
+Unnamed: 12: India
+Unnamed: 13: Jio
+Unnamed: 14: Server
+Unnamed: 15: 8
+Unnamed: 16: Intra-Country
+Network Interface Configuration: Unknown
+Unnamed: 18: 192.168.60.67
+Unnamed: 20: 39:7b:d4:1f:78:6b
+Unnamed: 21: 1500
+Unnamed: 22: Active
+Unnamed: 23: 9599 Mbps
+Unnamed: 24: OK
+Unnamed: 25: OK
+Unnamed: 27: Uplink Port
+Security Configuration: Faulty
+Unnamed: 29: OK
+Unnamed: 30: Unknown
+Unnamed: 31: Unknown
+Routing Information: BGP
+Unnamed: 34: 129
+Unnamed: 35: 192.168.83.102
+Unnamed: 36: Disabled
+Unnamed: 37: Enabled
+Unnamed: 38: 309
+Unnamed: 40: Unknown
+Unnamed: 41: 295 Mbps
+Unnamed: 42: Unknown
+Unnamed: 44: Unknown
+Unnamed: 45: OK
+Unnamed: 47: Unknown
+Unnamed: 48: No
+Unnamed: 49: Inactive
+Unnamed: 50: Unknown
+Logging Configuration: OK
+Unnamed: 52: 192.168.72.218
+Hardware Details: Model-932
+Unnamed: 54: 59f8026fbbd
+Unnamed: 55: Standalone
+Unnamed: 56: 496W
+Unnamed: 57: 61C
+Unnamed: 58: Idle
+Unnamed: 60: 22%
+Unnamed: 61: 41%
+Unnamed: 62: Model-981
+Software Details: 8.2.20
+Unnamed: 64: OK
+Unnamed: 65: OK
+Unnamed: 66: 192.168.28.128
+Unnamed: 69: SSH
+Performance Metrics: 49%
+Unnamed: 71: 37%
+Unnamed: 72: 40%
+Unnamed: 73: 1034 Mbps
+Unnamed: 74: 4.18%
+Unnamed: 75: 93 ms
+Unnamed: 76: 4.84%
+Unnamed: 77: 20 ms
+Unnamed: 78: 862
+Unnamed: 79: Unknown
+Unnamed: 81: Unknown
+Configuration Management: 10.9.51
+Unnamed: 83: 2025-03-27
+Unnamed: 84: Ahmedabad
+Unnamed: 85: 8 changes
+Unnamed: 86: Disabled
+Unnamed: 87: Available
+Unnamed: 88: No
+Unnamed: 89: OK
+Compliance and Audit: Active
+Unnamed: 91: 81%
+Unnamed: 92: 2024-12-12
+Unnamed: 95: 938
+Redundancy and Failover: Active
+Unnamed: 97: 207 days
+Unnamed: 98: Operational
+Unnamed: 99: 182W
+Unnamed: 100: OK
+Unnamed: 101: 427
+Environmental Metrics: 53C
+Unnamed: 103: 44%
+Unnamed: 104: 79%
+Unnamed: 105: 176.9V
+Unnamed: 106: Idle
+Virtualization Details: Unknown
+Unnamed: 108: 167
+Unnamed: 109: Hyper-V
+Unnamed: 110: 2%
+Unnamed: 111: OK
+Cloud Integration: GCP
+Unnamed: 113: Disabled
+Unnamed: 114: 192.168.132.79
+Unnamed: 115: API Key
+Unnamed: 116: OK
+Unnamed: 117: 215
+Application Layer Details: AppB
+Unnamed: 119: 2.2.39
+Unnamed: 120: 8080
+Unnamed: 121: Disabled
+Unnamed: 122: 357 days
+Unnamed: 123: 484
+Protocols Supported: 6.7.29
+Unnamed: 125: Unknown
+Unnamed: 128: 8.3.88
+User Management: 345
+Unnamed: 131: 690
+Unnamed: 132: 2025-05-01
+Unnamed: 133: Yes
+Unnamed: 134: No
+Unnamed: 135: Unknown
+Backup and Recovery: Available
+Unnamed: 137: 2025-01-10
+Unnamed: 138: 183 days
+Unnamed: 139: Unknown
+Unnamed: 140: Not Available
+Unnamed: 141: Disabled
+Identification.1: 2019
+Unnamed: 143: 5.0, 5.1, 5.2

@@ -1,0 +1,143 @@
+Identification: Element Name
+Unnamed: 2: Element ID
+Unnamed: 3: Manufacturer
+Unnamed: 4: Model
+Unnamed: 5: Serial Number
+Unnamed: 6: Firmware Version
+Unnamed: 7: Software Version
+Unnamed: 8: Location
+Unnamed: 9: Contact Info
+Unnamed: 10: Uptime
+Unnamed: 11: Last Maintenance Date
+Unnamed: 12: Country
+Unnamed: 13: Operator
+Unnamed: 14: NE Type
+Unnamed: 15: No. of Cells
+Unnamed: 16: NE Hierarchy
+Network Interface Configuration: Interface Name
+Unnamed: 18: IP Address
+Unnamed: 19: Subnet Mask
+Unnamed: 20: MAC Address
+Unnamed: 21: MTU
+Unnamed: 22: Status
+Unnamed: 23: Speed
+Unnamed: 24: Duplex Mode
+Unnamed: 25: VLAN
+Unnamed: 26: Interface Type
+Unnamed: 27: Description
+Security Configuration: Firewall Status
+Unnamed: 29: Encryption Method
+Unnamed: 30: Certificate Expiry
+Unnamed: 31: Access Control
+Unnamed: 32: Intrusion Detection
+Routing Information: Routing Protocol
+Unnamed: 34: Route Count
+Unnamed: 35: Default Gateway
+Unnamed: 36: OSPF Status
+Unnamed: 37: BGP Status
+Unnamed: 38: Route Flap Count
+QoS Settings: QoS Profile
+Unnamed: 40: Priority Class
+Unnamed: 41: Bandwidth Allocation
+Unnamed: 42: Queue Depth
+Unnamed: 43: Traffic Shaping
+Unnamed: 44: DSCP Marking
+Unnamed: 45: Congestion Control
+Unnamed: 46: Egress Max
+Unnamed: 47: Egress Guaranteed
+Unnamed: 48: Traffic Policy
+Unnamed: 49: QoS Status
+Unnamed: 50: Rate Limiting
+Logging Configuration: Log Level
+Unnamed: 52: Syslog Server
+Hardware Details: Device Model
+Unnamed: 54: Serial Number HW
+Unnamed: 55: Chassis Type
+Unnamed: 56: Power Supply
+Unnamed: 57: Temperature
+Unnamed: 58: Fan Status
+Unnamed: 59: Hardware Revision
+Unnamed: 60: Memory Size
+Unnamed: 61: Flash Size
+Unnamed: 62: CPU Model
+Software Details: OS Version
+Unnamed: 64: Patch Level
+Unnamed: 65: Last Update
+Unnamed: 66: Update Server
+Unnamed: 67: License Key
+Unnamed: 68: License Expiry
+Unnamed: 69: Supported Protocols
+Performance Metrics: CPU Usage
+Unnamed: 71: Memory Usage
+Unnamed: 72: Disk Usage
+Unnamed: 73: Network Throughput
+Unnamed: 74: Packet Loss
+Unnamed: 75: Latency
+Unnamed: 76: Error Rate
+Unnamed: 77: Jitter
+Unnamed: 78: Sessions Count
+Unnamed: 79: Active Connections
+Unnamed: 80: System Load
+Unnamed: 81: I/O Operations
+Configuration Management: Config Version
+Unnamed: 83: Last Backup Date
+Unnamed: 84: Backup Location
+Unnamed: 85: Change History
+Unnamed: 86: Rollback Status
+Unnamed: 87: Auto Backup
+Unnamed: 88: Config Locked
+Unnamed: 89: User Access Level
+Compliance and Audit: Compliance Status
+Unnamed: 91: Audit Log Size
+Unnamed: 92: Last Audit Date
+Unnamed: 93: Audit Trail Enabled
+Unnamed: 94: Regulatory Standards
+Unnamed: 95: Policy Violation Count
+Redundancy and Failover: HA Status
+Unnamed: 97: Failover Time
+Unnamed: 98: Backup Link Status
+Unnamed: 99: Redundant Power Supply
+Unnamed: 100: Cluster Mode
+Unnamed: 101: Node Count
+Environmental Metrics: Ambient Temperature
+Unnamed: 103: Humidity
+Unnamed: 104: Power Consumption
+Unnamed: 105: Voltage
+Unnamed: 106: Cooling Status
+Virtualization Details: Virtualization Enabled
+Unnamed: 108: VM Count
+Unnamed: 109: Hypervisor Type
+Unnamed: 110: VM Resource Usage
+Unnamed: 111: VM Network Interface
+Cloud Integration: Cloud Provider
+Unnamed: 113: Integration Status
+Unnamed: 114: API Endpoint
+Unnamed: 115: Authentication Method
+Unnamed: 116: Cloud Sync Interval
+Unnamed: 117: Cloud Resource Count
+Application Layer Details: Application Name
+Unnamed: 119: Application Version
+Unnamed: 120: Service Port
+Unnamed: 121: Service Status
+Unnamed: 122: Session Timeout
+Unnamed: 123: Concurrent Users
+Protocols Supported: HTTP Version
+Unnamed: 125: HTTPS Enabled
+Unnamed: 126: FTP Enabled
+Unnamed: 127: SSH Enabled
+Unnamed: 128: SNMP Version
+Unnamed: 129: Telnet Enabled
+User Management: Admin User Count
+Unnamed: 131: Normal User Count
+Unnamed: 132: Last Login
+Unnamed: 133: Password Policy
+Unnamed: 134: Account Lockout
+Unnamed: 135: Session Limit
+Backup and Recovery: Backup Frequency
+Unnamed: 137: Last Restore Date
+Unnamed: 138: Recovery Time Objective
+Unnamed: 139: Recovery Point Objective
+Unnamed: 140: Disaster Recovery Plan
+Unnamed: 141: Backup Integrity Status
+Identification.1: Year
+Unnamed: 143: Software Versions

@@ -1,0 +1,133 @@
+Unnamed: 0: 132.0
+Identification: NE-5778
+Unnamed: 2: 3eddf389
+Unnamed: 3: Juniper
+Unnamed: 4: Model-651
+Unnamed: 5: 436e80ccffa
+Unnamed: 6: 4.6.8
+Unnamed: 7: 3.0.44
+Unnamed: 8: Pune
+Unnamed: 9: admin13@company.com
+Unnamed: 10: 46 days
+Unnamed: 11: 2025-02-15
+Unnamed: 12: India
+Unnamed: 13: AT&T
+Unnamed: 14: Server
+Unnamed: 15: 1
+Unnamed: 16: Local
+Network Interface Configuration: Unknown
+Unnamed: 18: 192.168.17.33
+Unnamed: 19: Unknown
+Unnamed: 20: 98:c9:aa:65:5a:6e
+Unnamed: 21: 1500
+Unnamed: 22: Enabled
+Unnamed: 23: 8555 Mbps
+Unnamed: 24: Unknown
+Unnamed: 25: OK
+Unnamed: 26: Unknown
+Unnamed: 27: User Access Port
+Security Configuration: Disabled
+Unnamed: 29: Unknown
+Unnamed: 30: OK
+Unnamed: 31: OK
+Unnamed: 32: OK
+Routing Information: BGP
+Unnamed: 34: 140
+Unnamed: 35: 192.168.239.163
+Unnamed: 36: Enabled
+Unnamed: 37: Operational
+Unnamed: 38: 973
+Unnamed: 41: 210 Mbps
+Unnamed: 42: OK
+Unnamed: 44: Unknown
+Unnamed: 45: Unknown
+Unnamed: 46: OK
+Unnamed: 47: Unknown
+Unnamed: 48: Yes
+Unnamed: 49: Operational
+Unnamed: 50: Unknown
+Logging Configuration: OK
+Unnamed: 52: 192.168.186.153
+Hardware Details: Model-367
+Unnamed: 54: 7c04ecc85df
+Unnamed: 55: Standalone
+Unnamed: 56: 403W
+Unnamed: 57: 49C
+Unnamed: 58: Idle
+Unnamed: 59: OK
+Unnamed: 60: 83%
+Unnamed: 61: 42%
+Unnamed: 62: Model-178
+Software Details: 7.9.43
+Unnamed: 64: OK
+Unnamed: 65: OK
+Unnamed: 66: 192.168.38.233
+Unnamed: 67: Unknown
+Unnamed: 68: OK
+Unnamed: 69: OSPF
+Performance Metrics: 9%
+Unnamed: 71: 13%
+Unnamed: 72: 46%
+Unnamed: 73: 2047 Mbps
+Unnamed: 74: 2.87%
+Unnamed: 75: 64 ms
+Unnamed: 76: 2.54%
+Unnamed: 77: 59 ms
+Unnamed: 78: 286
+Configuration Management: 7.1.91
+Unnamed: 83: 2025-05-10
+Unnamed: 84: Pune
+Unnamed: 85: 8 changes
+Unnamed: 86: Operational
+Unnamed: 87: Not Available
+Unnamed: 88: Yes
+Unnamed: 89: OK
+Compliance and Audit: Idle
+Unnamed: 91: 61%
+Unnamed: 92: 2024-10-05
+Unnamed: 94: Unknown
+Unnamed: 95: 839
+Redundancy and Failover: Operational
+Unnamed: 97: 42 days
+Unnamed: 98: Enabled
+Unnamed: 99: 265W
+Unnamed: 100: Unknown
+Unnamed: 101: 466
+Environmental Metrics: 39C
+Unnamed: 103: 58%
+Unnamed: 104: 95%
+Unnamed: 105: 231.3V
+Unnamed: 106: Faulty
+Unnamed: 108: 624
+Unnamed: 109: KVM
+Unnamed: 110: 98%
+Unnamed: 111: Unknown
+Cloud Integration: Azure
+Unnamed: 113: Inactive
+Unnamed: 114: 192.168.143.7
+Unnamed: 115: Token-Based
+Unnamed: 117: 451
+Application Layer Details: AppA
+Unnamed: 119: 10.3.66
+Unnamed: 120: 80
+Unnamed: 121: Active
+Unnamed: 122: 327 days
+Unnamed: 123: 357
+Protocols Supported: 8.0.42
+Unnamed: 125: Unknown
+Unnamed: 126: OK
+Unnamed: 128: 5.7.62
+User Management: 296
+Unnamed: 131: 540
+Unnamed: 132: 2025-05-14
+Unnamed: 133: No
+Unnamed: 134: Yes
+Unnamed: 135: OK
+Backup and Recovery: Available
+Unnamed: 137: 2025-06-03
+Unnamed: 138: 50 days
+Unnamed: 139: Unknown
+Unnamed: 140: Not Available
+Unnamed: 141: Active
+Identification.1: 2021
+Unnamed: 143: 7.0

@@ -1,0 +1,130 @@
+Unnamed: 0: 176.0
+Identification: NE-8124
+Unnamed: 2: c33ba889
+Unnamed: 3: Arista
+Unnamed: 4: Model-945
+Unnamed: 5: b6d818ee5e5
+Unnamed: 6: 9.3.81
+Unnamed: 7: 3.9.56
+Unnamed: 8: Chennai
+Unnamed: 9: admin25@company.com
+Unnamed: 10: 278 days
+Unnamed: 11: 2025-04-07
+Unnamed: 12: India
+Unnamed: 13: Airtel
+Unnamed: 14: Gateway
+Unnamed: 15: 2
+Unnamed: 16: Local
+Unnamed: 18: 192.168.126.180
+Unnamed: 20: c8:ae:ca:86:18:bb
+Unnamed: 21: 9000
+Unnamed: 22: Inactive
+Unnamed: 23: 6848 Mbps
+Unnamed: 24: OK
+Unnamed: 25: Unknown
+Unnamed: 26: OK
+Unnamed: 27: User Access Port
+Security Configuration: Operational
+Unnamed: 29: Unknown
+Unnamed: 30: OK
+Unnamed: 32: Unknown
+Routing Information: HTTPS
+Unnamed: 34: 912
+Unnamed: 35: 192.168.156.209
+Unnamed: 36: Idle
+Unnamed: 37: Operational
+Unnamed: 38: 847
+Unnamed: 41: 632 Mbps
+Unnamed: 43: Unknown
+Unnamed: 44: Unknown
+Unnamed: 45: Unknown
+Unnamed: 47: OK
+Unnamed: 48: No
+Unnamed: 49: Disabled
+Unnamed: 50: OK
+Unnamed: 52: 192.168.31.147
+Hardware Details: Model-474
+Unnamed: 54: 71ce3397c1b
+Unnamed: 55: Standalone
+Unnamed: 56: 568W
+Unnamed: 57: 50C
+Unnamed: 58: Operational
+Unnamed: 59: Unknown
+Unnamed: 60: 46%
+Unnamed: 61: 28%
+Unnamed: 62: Model-970
+Software Details: 1.4.89
+Unnamed: 64: Unknown
+Unnamed: 65: Unknown
+Unnamed: 66: 192.168.93.109
+Unnamed: 68: OK
+Unnamed: 69: BGP
+Performance Metrics: 51%
+Unnamed: 71: 43%
+Unnamed: 72: 47%
+Unnamed: 73: 4654 Mbps
+Unnamed: 74: 4.76%
+Unnamed: 75: 34 ms
+Unnamed: 76: 4.99%
+Unnamed: 77: 97 ms
+Unnamed: 78: 372
+Unnamed: 79: Unknown
+Unnamed: 80: OK
+Configuration Management: 7.6.90
+Unnamed: 83: 2025-01-27
+Unnamed: 84: Chennai
+Unnamed: 85: 4 changes
+Unnamed: 86: Active
+Unnamed: 87: Not Available
+Unnamed: 88: No
+Unnamed: 89: Unknown
+Compliance and Audit: Inactive
+Unnamed: 91: 72%
+Unnamed: 92: 2024-06-30
+Unnamed: 93: Unknown
+Unnamed: 94: OK
+Unnamed: 95: 164
+Redundancy and Failover: Enabled
+Unnamed: 97: 281 days
+Unnamed: 98: Faulty
+Unnamed: 99: 155W
+Unnamed: 100: Unknown
+Unnamed: 101: 208
+Environmental Metrics: 78C
+Unnamed: 103: 58%
+Unnamed: 104: 8%
+Unnamed: 105: 151.8V
+Unnamed: 106: Enabled
+Unnamed: 108: 853
+Unnamed: 109: VMware
+Unnamed: 110: 86%
+Cloud Integration: GCP
+Unnamed: 113: Disabled
+Unnamed: 114: 192.168.249.41
+Unnamed: 115: API Key
+Unnamed: 116: Unknown
+Unnamed: 117: 492
+Application Layer Details: AppB
+Unnamed: 119: 6.6.4
+Unnamed: 120: 8080
+Unnamed: 121: Idle
+Unnamed: 122: 144 days
+Unnamed: 123: 326
+Protocols Supported: 9.0.15
+Unnamed: 126: OK
+Unnamed: 127: Unknown
+Unnamed: 128: 3.6.39
+Unnamed: 129: OK
+User Management: 255
+Unnamed: 131: 93
+Unnamed: 132: 2025-04-12
+Unnamed: 133: Yes
+Unnamed: 134: Yes
+Unnamed: 135: OK
+Backup and Recovery: Available
+Unnamed: 137: 2025-05-24
+Unnamed: 138: 63 days
+Unnamed: 140: Available
+Unnamed: 141: Disabled
+Identification.1: 2020
+Unnamed: 143: 6.0

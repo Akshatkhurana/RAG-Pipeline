@@ -1,0 +1,131 @@
+Unnamed: 0: 131.0
+Identification: NE-5290
+Unnamed: 2: 4fa6ff60
+Unnamed: 3: Cisco
+Unnamed: 4: Model-417
+Unnamed: 5: 0130c7f58f4
+Unnamed: 6: 9.0.49
+Unnamed: 7: 5.3.77
+Unnamed: 8: Mumbai
+Unnamed: 9: admin54@company.com
+Unnamed: 10: 33 days
+Unnamed: 11: 2025-06-09
+Unnamed: 12: India
+Unnamed: 13: T-Mobile
+Unnamed: 14: Switch
+Unnamed: 15: 8
+Unnamed: 16: Intra-Country
+Network Interface Configuration: OK
+Unnamed: 18: 192.168.113.214
+Unnamed: 19: OK
+Unnamed: 20: a2:7a:3f:88:8e:e7
+Unnamed: 21: 9000
+Unnamed: 22: Faulty
+Unnamed: 23: 7584 Mbps
+Unnamed: 24: OK
+Unnamed: 25: Unknown
+Unnamed: 26: OK
+Unnamed: 27: Management Interface
+Security Configuration: Operational
+Unnamed: 29: OK
+Unnamed: 31: OK
+Routing Information: SSH
+Unnamed: 34: 515
+Unnamed: 35: 192.168.171.87
+Unnamed: 36: Inactive
+Unnamed: 37: Enabled
+Unnamed: 38: 986
+QoS Settings: Unknown
+Unnamed: 41: 26 Mbps
+Unnamed: 42: Unknown
+Unnamed: 43: Unknown
+Unnamed: 44: OK
+Unnamed: 45: OK
+Unnamed: 46: Unknown
+Unnamed: 48: Yes
+Unnamed: 49: Enabled
+Unnamed: 50: OK
+Unnamed: 52: 192.168.119.77
+Hardware Details: Model-429
+Unnamed: 54: 0a9175cdc9b
+Unnamed: 55: Blade
+Unnamed: 56: 616W
+Unnamed: 57: 57C
+Unnamed: 58: Idle
+Unnamed: 60: 73%
+Unnamed: 61: 37%
+Unnamed: 62: Model-916
+Software Details: 1.9.78
+Unnamed: 64: OK
+Unnamed: 66: 192.168.180.230
+Unnamed: 68: OK
+Unnamed: 69: RIP
+Performance Metrics: 5%
+Unnamed: 71: 2%
+Unnamed: 72: 17%
+Unnamed: 73: 6608 Mbps
+Unnamed: 74: 2.78%
+Unnamed: 75: 100 ms
+Unnamed: 76: 1.74%
+Unnamed: 77: 55 ms
+Unnamed: 78: 716
+Unnamed: 80: Unknown
+Unnamed: 81: Unknown
+Configuration Management: 1.9.27
+Unnamed: 83: 2024-09-16
+Unnamed: 84: Mumbai
+Unnamed: 85: 10 changes
+Unnamed: 86: Enabled
+Unnamed: 87: Available
+Unnamed: 88: No
+Unnamed: 89: OK
+Compliance and Audit: Idle
+Unnamed: 91: 98%
+Unnamed: 92: 2024-07-26
+Unnamed: 93: OK
+Unnamed: 95: 605
+Redundancy and Failover: Operational
+Unnamed: 97: 335 days
+Unnamed: 98: Operational
+Unnamed: 99: 568W
+Unnamed: 101: 913
+Environmental Metrics: 65C
+Unnamed: 103: 56%
+Unnamed: 104: 24%
+Unnamed: 105: 165.7V
+Unnamed: 106: Idle
+Virtualization Details: Unknown
+Unnamed: 108: 100
+Unnamed: 109: Hyper-V
+Unnamed: 110: 83%
+Unnamed: 111: OK
+Cloud Integration: Azure
+Unnamed: 113: Active
+Unnamed: 114: 192.168.168.123
+Unnamed: 115: API Key
+Unnamed: 116: OK
+Unnamed: 117: 295
+Application Layer Details: AppC
+Unnamed: 119: 4.9.37
+Unnamed: 120: 8080
+Unnamed: 121: Enabled
+Unnamed: 122: 42 days
+Unnamed: 123: 180
+Protocols Supported: 5.2.24
+Unnamed: 125: Unknown
+Unnamed: 126: OK
+Unnamed: 127: Unknown
+Unnamed: 128: 8.5.5
+User Management: 697
+Unnamed: 131: 933
+Unnamed: 132: 2024-07-26
+Unnamed: 133: No
+Unnamed: 134: Yes
+Backup and Recovery: Not Available
+Unnamed: 137: 2024-08-29
+Unnamed: 138: 297 days
+Unnamed: 139: Unknown
+Unnamed: 140: Not Available
+Unnamed: 141: Inactive
+Identification.1: 2025
+Unnamed: 143: 11.0

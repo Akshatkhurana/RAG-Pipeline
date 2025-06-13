@@ -1,0 +1,128 @@
+Unnamed: 0: 37.0
+Identification: NE-7629
+Unnamed: 2: 37416a4c
+Unnamed: 3: Huawei
+Unnamed: 4: Model-482
+Unnamed: 5: cec8542ac80
+Unnamed: 6: 5.5.43
+Unnamed: 7: 2.1.92
+Unnamed: 8: Berlin
+Unnamed: 9: admin48@company.com
+Unnamed: 10: 61 days
+Unnamed: 11: 2025-05-08
+Unnamed: 12: Germany
+Unnamed: 13: Vodafone Idea
+Unnamed: 14: Gateway
+Unnamed: 15: 1
+Unnamed: 16: Local
+Unnamed: 18: 192.168.244.127
+Unnamed: 20: 25:33:54:62:a7:94
+Unnamed: 21: 9000
+Unnamed: 22: Disabled
+Unnamed: 23: 5222 Mbps
+Unnamed: 24: Unknown
+Unnamed: 25: Unknown
+Unnamed: 26: Unknown
+Unnamed: 27: User Access Port
+Security Configuration: Enabled
+Unnamed: 30: OK
+Unnamed: 31: Unknown
+Unnamed: 32: Unknown
+Routing Information: RIP
+Unnamed: 34: 808
+Unnamed: 35: 192.168.64.172
+Unnamed: 36: Idle
+Unnamed: 37: Operational
+Unnamed: 38: 930
+QoS Settings: Unknown
+Unnamed: 41: 198 Mbps
+Unnamed: 43: OK
+Unnamed: 47: OK
+Unnamed: 48: Yes
+Unnamed: 49: Operational
+Logging Configuration: Unknown
+Unnamed: 52: 192.168.80.218
+Hardware Details: Model-676
+Unnamed: 54: 46ec20e96c2
+Unnamed: 55: Rackmount
+Unnamed: 56: 722W
+Unnamed: 57: 71C
+Unnamed: 58: Enabled
+Unnamed: 60: 39%
+Unnamed: 61: 95%
+Unnamed: 62: Model-403
+Software Details: 5.1.62
+Unnamed: 64: OK
+Unnamed: 65: Unknown
+Unnamed: 66: 192.168.43.29
+Unnamed: 67: OK
+Unnamed: 68: Unknown
+Unnamed: 69: HTTP
+Performance Metrics: 18%
+Unnamed: 71: 60%
+Unnamed: 72: 45%
+Unnamed: 73: 3535 Mbps
+Unnamed: 74: 3.99%
+Unnamed: 75: 91 ms
+Unnamed: 76: 4.10%
+Unnamed: 77: 64 ms
+Unnamed: 78: 1000
+Unnamed: 81: Unknown
+Configuration Management: 7.2.15
+Unnamed: 83: 2024-08-04
+Unnamed: 84: Berlin
+Unnamed: 85: 9 changes
+Unnamed: 86: Active
+Unnamed: 87: Not Available
+Unnamed: 88: Yes
+Unnamed: 89: Unknown
+Compliance and Audit: Active
+Unnamed: 91: 3%
+Unnamed: 92: 2024-09-24
+Unnamed: 93: Unknown
+Unnamed: 94: OK
+Unnamed: 95: 317
+Redundancy and Failover: Active
+Unnamed: 97: 318 days
+Unnamed: 98: Idle
+Unnamed: 99: 540W
+Unnamed: 100: OK
+Unnamed: 101: 680
+Environmental Metrics: 70C
+Unnamed: 103: 38%
+Unnamed: 104: 56%
+Unnamed: 105: 217.6V
+Unnamed: 106: Inactive
+Unnamed: 108: 596
+Unnamed: 109: VMware
+Unnamed: 110: 17%
+Unnamed: 111: OK
+Cloud Integration: Azure
+Unnamed: 113: Idle
+Unnamed: 114: 192.168.209.10
+Unnamed: 115: OAuth2
+Unnamed: 116: Unknown
+Unnamed: 117: 880
+Application Layer Details: AppB
+Unnamed: 119: 2.4.74
+Unnamed: 120: 80
+Unnamed: 121: Inactive
+Unnamed: 122: 343 days
+Unnamed: 123: 495
+Protocols Supported: 9.5.75
+Unnamed: 125: Unknown
+Unnamed: 126: OK
+Unnamed: 127: Unknown
+Unnamed: 128: 10.8.70
+User Management: 638
+Unnamed: 131: 152
+Unnamed: 132: 2024-07-04
+Unnamed: 133: No
+Unnamed: 134: No
+Backup and Recovery: Available
+Unnamed: 137: 2024-09-30
+Unnamed: 138: 91 days
+Unnamed: 140: Available
+Unnamed: 141: Idle
+Identification.1: 2025
+Unnamed: 143: 11.0

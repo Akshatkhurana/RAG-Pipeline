@@ -1,0 +1,130 @@
+Unnamed: 0: 213.0
+Identification: NE-9938
+Unnamed: 2: 24cb13f2
+Unnamed: 3: Huawei
+Unnamed: 4: Model-265
+Unnamed: 5: f43639d8d1d
+Unnamed: 6: 9.7.36
+Unnamed: 7: 8.4.37
+Unnamed: 8: Bangalore
+Unnamed: 9: admin88@company.com
+Unnamed: 10: 37 days
+Unnamed: 11: 2025-01-05
+Unnamed: 12: India
+Unnamed: 13: Vodafone Idea
+Unnamed: 14: Switch
+Unnamed: 15: 4
+Unnamed: 16: Zonal
+Network Interface Configuration: OK
+Unnamed: 18: 192.168.28.4
+Unnamed: 19: OK
+Unnamed: 20: 65:09:ce:0a:35:ff
+Unnamed: 21: 9000
+Unnamed: 22: Inactive
+Unnamed: 23: 5846 Mbps
+Unnamed: 24: OK
+Unnamed: 27: Management Interface
+Security Configuration: Active
+Unnamed: 30: Unknown
+Unnamed: 31: Unknown
+Routing Information: SNMP
+Unnamed: 34: 254
+Unnamed: 35: 192.168.50.150
+Unnamed: 36: Operational
+Unnamed: 37: Operational
+Unnamed: 38: 382
+Unnamed: 41: 678 Mbps
+Unnamed: 42: Unknown
+Unnamed: 45: Unknown
+Unnamed: 47: Unknown
+Unnamed: 48: Yes
+Unnamed: 49: Idle
+Unnamed: 50: Unknown
+Logging Configuration: OK
+Unnamed: 52: 192.168.212.26
+Hardware Details: Model-766
+Unnamed: 54: b0ac79e125d
+Unnamed: 55: Standalone
+Unnamed: 56: 882W
+Unnamed: 57: 74C
+Unnamed: 58: Inactive
+Unnamed: 60: 65%
+Unnamed: 61: 16%
+Unnamed: 62: Model-527
+Software Details: 4.5.11
+Unnamed: 64: Unknown
+Unnamed: 65: Unknown
+Unnamed: 66: 192.168.53.28
+Unnamed: 67: Unknown
+Unnamed: 68: Unknown
+Unnamed: 69: RIP
+Performance Metrics: 98%
+Unnamed: 71: 56%
+Unnamed: 72: 5%
+Unnamed: 73: 1512 Mbps
+Unnamed: 74: 2.34%
+Unnamed: 75: 85 ms
+Unnamed: 76: 1.30%
+Unnamed: 77: 74 ms
+Unnamed: 78: 385
+Unnamed: 79: OK
+Unnamed: 80: Unknown
+Unnamed: 81: OK
+Configuration Management: 3.5.55
+Unnamed: 83: 2024-12-11
+Unnamed: 84: Bangalore
+Unnamed: 85: 5 changes
+Unnamed: 86: Faulty
+Unnamed: 87: Not Available
+Unnamed: 88: Yes
+Unnamed: 89: OK
+Compliance and Audit: Operational
+Unnamed: 91: 54%
+Unnamed: 92: 2024-11-23
+Unnamed: 93: OK
+Unnamed: 94: Unknown
+Unnamed: 95: 438
+Redundancy and Failover: Operational
+Unnamed: 97: 99 days
+Unnamed: 98: Idle
+Unnamed: 99: 279W
+Unnamed: 101: 115
+Environmental Metrics: 70C
+Unnamed: 103: 34%
+Unnamed: 104: 11%
+Unnamed: 105: 112.2V
+Unnamed: 106: Idle
+Virtualization Details: OK
+Unnamed: 108: 392
+Unnamed: 109: KVM
+Unnamed: 110: 77%
+Unnamed: 111: Unknown
+Cloud Integration: Azure
+Unnamed: 113: Operational
+Unnamed: 114: 192.168.193.101
+Unnamed: 115: Token-Based
+Unnamed: 116: OK
+Unnamed: 117: 686
+Application Layer Details: AppA
+Unnamed: 119: 3.9.90
+Unnamed: 120: 21
+Unnamed: 121: Operational
+Unnamed: 122: 120 days
+Unnamed: 123: 61
+Protocols Supported: 2.4.31
+Unnamed: 125: Unknown
+Unnamed: 128: 10.0.35
+User Management: 738
+Unnamed: 131: 420
+Unnamed: 132: 2025-03-03
+Unnamed: 133: No
+Unnamed: 134: Yes
+Unnamed: 135: OK
+Backup and Recovery: Not Available
+Unnamed: 137: 2025-04-06
+Unnamed: 138: 77 days
+Unnamed: 139: Unknown
+Unnamed: 140: Available
+Unnamed: 141: Disabled
+Identification.1: 2015
+Unnamed: 143: 1.0, 1.1, 1.2, 1.3

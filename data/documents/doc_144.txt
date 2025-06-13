@@ -1,0 +1,126 @@
+Unnamed: 0: 141.0
+Identification: NE-9303
+Unnamed: 2: 3100079a
+Unnamed: 3: Juniper
+Unnamed: 4: Model-842
+Unnamed: 5: 7a1172d3f5a
+Unnamed: 6: 7.5.63
+Unnamed: 7: 10.3.94
+Unnamed: 8: New York
+Unnamed: 9: admin93@company.com
+Unnamed: 10: 309 days
+Unnamed: 11: 2024-11-21
+Unnamed: 12: USA
+Unnamed: 13: Jio
+Unnamed: 14: Gateway
+Unnamed: 15: 4
+Unnamed: 16: Zonal
+Network Interface Configuration: Unknown
+Unnamed: 18: 192.168.162.117
+Unnamed: 19: Unknown
+Unnamed: 20: f2:4f:9d:23:71:c4
+Unnamed: 21: 9000
+Unnamed: 22: Faulty
+Unnamed: 23: 3376 Mbps
+Unnamed: 24: OK
+Unnamed: 25: Unknown
+Unnamed: 27: User Access Port
+Security Configuration: Disabled
+Routing Information: HTTP
+Unnamed: 34: 464
+Unnamed: 35: 192.168.194.166
+Unnamed: 36: Disabled
+Unnamed: 37: Disabled
+Unnamed: 38: 926
+QoS Settings: OK
+Unnamed: 41: 422 Mbps
+Unnamed: 42: Unknown
+Unnamed: 43: Unknown
+Unnamed: 44: Unknown
+Unnamed: 48: No
+Unnamed: 49: Faulty
+Unnamed: 52: 192.168.231.207
+Hardware Details: Model-936
+Unnamed: 54: d549e622986
+Unnamed: 55: Standalone
+Unnamed: 56: 676W
+Unnamed: 57: 40C
+Unnamed: 58: Faulty
+Unnamed: 59: OK
+Unnamed: 60: 67%
+Unnamed: 61: 3%
+Unnamed: 62: Model-931
+Software Details: 10.7.87
+Unnamed: 64: Unknown
+Unnamed: 66: 192.168.158.148
+Unnamed: 67: Unknown
+Unnamed: 69: RIP
+Performance Metrics: 36%
+Unnamed: 71: 100%
+Unnamed: 72: 35%
+Unnamed: 73: 6452 Mbps
+Unnamed: 74: 1.44%
+Unnamed: 75: 7 ms
+Unnamed: 76: 0.24%
+Unnamed: 77: 76 ms
+Unnamed: 78: 162
+Unnamed: 79: Unknown
+Unnamed: 81: OK
+Configuration Management: 6.1.4
+Unnamed: 83: 2024-12-11
+Unnamed: 84: New York
+Unnamed: 85: 9 changes
+Unnamed: 86: Enabled
+Unnamed: 87: Available
+Unnamed: 88: No
+Unnamed: 89: OK
+Compliance and Audit: Enabled
+Unnamed: 91: 30%
+Unnamed: 92: 2024-11-21
+Unnamed: 93: Unknown
+Unnamed: 95: 745
+Redundancy and Failover: Active
+Unnamed: 97: 277 days
+Unnamed: 98: Idle
+Unnamed: 99: 156W
+Unnamed: 100: Unknown
+Unnamed: 101: 423
+Environmental Metrics: 63C
+Unnamed: 103: 47%
+Unnamed: 104: 50%
+Unnamed: 105: 223.7V
+Unnamed: 106: Disabled
+Unnamed: 108: 346
+Unnamed: 109: VMware
+Unnamed: 110: 69%
+Unnamed: 111: OK
+Cloud Integration: AWS
+Unnamed: 113: Idle
+Unnamed: 114: 192.168.56.7
+Unnamed: 115: Token-Based
+Unnamed: 116: Unknown
+Unnamed: 117: 441
+Application Layer Details: AppB
+Unnamed: 119: 8.4.12
+Unnamed: 120: 8080
+Unnamed: 121: Inactive
+Unnamed: 122: 254 days
+Unnamed: 123: 272
+Protocols Supported: 10.5.1
+Unnamed: 125: Unknown
+Unnamed: 126: OK
+Unnamed: 127: Unknown
+Unnamed: 128: 10.8.61
+User Management: 972
+Unnamed: 131: 377
+Unnamed: 132: 2025-03-20
+Unnamed: 133: No
+Unnamed: 134: No
+Unnamed: 135: OK
+Backup and Recovery: Not Available
+Unnamed: 137: 2024-06-18
+Unnamed: 138: 190 days
+Unnamed: 140: Not Available
+Unnamed: 141: Operational
+Identification.1: 2024
+Unnamed: 143: 10.0, 10.1, 10.2

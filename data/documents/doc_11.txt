@@ -1,0 +1,130 @@
+Unnamed: 0: 8.0
+Identification: NE-2807
+Unnamed: 2: 4380bc2c
+Unnamed: 3: Juniper
+Unnamed: 4: Model-903
+Unnamed: 5: 3f8082c482d
+Unnamed: 6: 6.2.77
+Unnamed: 7: 1.3.22
+Unnamed: 8: Jaipur
+Unnamed: 9: admin39@company.com
+Unnamed: 10: 24 days
+Unnamed: 11: 2024-07-09
+Unnamed: 12: India
+Unnamed: 13: Jio
+Unnamed: 14: Server
+Unnamed: 15: 2
+Unnamed: 16: Local
+Network Interface Configuration: OK
+Unnamed: 18: 192.168.184.82
+Unnamed: 19: OK
+Unnamed: 20: b8:55:85:86:b5:59
+Unnamed: 21: 9000
+Unnamed: 22: Active
+Unnamed: 23: 1073 Mbps
+Unnamed: 25: Unknown
+Unnamed: 26: OK
+Unnamed: 27: Uplink Port
+Security Configuration: Disabled
+Unnamed: 29: OK
+Unnamed: 32: Unknown
+Routing Information: RIP
+Unnamed: 34: 545
+Unnamed: 35: 192.168.146.35
+Unnamed: 36: Idle
+Unnamed: 37: Inactive
+Unnamed: 38: 14
+Unnamed: 40: Unknown
+Unnamed: 41: 692 Mbps
+Unnamed: 42: OK
+Unnamed: 44: OK
+Unnamed: 45: OK
+Unnamed: 47: OK
+Unnamed: 48: Yes
+Unnamed: 49: Active
+Unnamed: 50: OK
+Unnamed: 52: 192.168.185.113
+Hardware Details: Model-698
+Unnamed: 54: a6c7f9d7bf5
+Unnamed: 55: Standalone
+Unnamed: 56: 722W
+Unnamed: 57: 68C
+Unnamed: 58: Faulty
+Unnamed: 60: 43%
+Unnamed: 61: 66%
+Unnamed: 62: Model-556
+Software Details: 8.8.78
+Unnamed: 64: Unknown
+Unnamed: 66: 192.168.169.206
+Unnamed: 67: Unknown
+Unnamed: 68: Unknown
+Unnamed: 69: SSH
+Performance Metrics: 71%
+Unnamed: 71: 9%
+Unnamed: 72: 68%
+Unnamed: 73: 9279 Mbps
+Unnamed: 74: 4.00%
+Unnamed: 75: 17 ms
+Unnamed: 76: 3.97%
+Unnamed: 77: 64 ms
+Unnamed: 78: 213
+Unnamed: 79: Unknown
+Unnamed: 80: OK
+Unnamed: 81: Unknown
+Configuration Management: 1.8.79
+Unnamed: 83: 2024-11-15
+Unnamed: 84: Jaipur
+Unnamed: 85: 7 changes
+Unnamed: 86: Operational
+Unnamed: 87: Available
+Unnamed: 88: No
+Unnamed: 89: OK
+Compliance and Audit: Active
+Unnamed: 91: 93%
+Unnamed: 92: 2024-10-25
+Unnamed: 95: 325
+Redundancy and Failover: Faulty
+Unnamed: 97: 32 days
+Unnamed: 98: Inactive
+Unnamed: 99: 310W
+Unnamed: 100: Unknown
+Unnamed: 101: 579
+Environmental Metrics: 29C
+Unnamed: 103: 53%
+Unnamed: 104: 55%
+Unnamed: 105: 234.5V
+Unnamed: 106: Disabled
+Virtualization Details: Unknown
+Unnamed: 108: 951
+Unnamed: 109: Hyper-V
+Unnamed: 110: 47%
+Cloud Integration: Azure
+Unnamed: 113: Operational
+Unnamed: 114: 192.168.112.120
+Unnamed: 115: API Key
+Unnamed: 116: OK
+Unnamed: 117: 948
+Application Layer Details: AppB
+Unnamed: 119: 3.8.60
+Unnamed: 120: 22
+Unnamed: 121: Operational
+Unnamed: 122: 263 days
+Unnamed: 123: 388
+Protocols Supported: 4.4.21
+Unnamed: 125: OK
+Unnamed: 127: OK
+Unnamed: 128: 2.4.76
+Unnamed: 129: OK
+User Management: 860
+Unnamed: 131: 410
+Unnamed: 132: 2024-08-18
+Unnamed: 133: No
+Unnamed: 134: No
+Backup and Recovery: Not Available
+Unnamed: 137: 2025-05-20
+Unnamed: 138: 325 days
+Unnamed: 139: Unknown
+Unnamed: 140: Not Available
+Unnamed: 141: Idle
+Identification.1: 2015
+Unnamed: 143: 1.0, 1.1, 1.2, 1.3

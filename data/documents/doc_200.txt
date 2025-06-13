@@ -1,0 +1,133 @@
+Unnamed: 0: 197.0
+Identification: NE-7230
+Unnamed: 2: 990e82be
+Unnamed: 3: Juniper
+Unnamed: 4: Model-812
+Unnamed: 5: f8d4fc67941
+Unnamed: 6: 1.9.94
+Unnamed: 7: 7.0.28
+Unnamed: 8: London
+Unnamed: 9: admin94@company.com
+Unnamed: 10: 94 days
+Unnamed: 11: 2025-04-28
+Unnamed: 12: UK
+Unnamed: 13: AT&T
+Unnamed: 14: Switch
+Unnamed: 15: 9
+Unnamed: 16: Inter-Country
+Network Interface Configuration: OK
+Unnamed: 18: 192.168.4.117
+Unnamed: 19: Unknown
+Unnamed: 20: 1a:7d:31:9e:a2:0e
+Unnamed: 21: 9000
+Unnamed: 22: Inactive
+Unnamed: 23: 7303 Mbps
+Unnamed: 24: Unknown
+Unnamed: 25: OK
+Unnamed: 26: Unknown
+Unnamed: 27: Uplink Port
+Security Configuration: Idle
+Unnamed: 29: OK
+Unnamed: 30: OK
+Unnamed: 32: OK
+Routing Information: SNMP
+Unnamed: 34: 761
+Unnamed: 35: 192.168.82.207
+Unnamed: 36: Idle
+Unnamed: 37: Active
+Unnamed: 38: 534
+Unnamed: 40: OK
+Unnamed: 41: 779 Mbps
+Unnamed: 44: Unknown
+Unnamed: 45: OK
+Unnamed: 46: Unknown
+Unnamed: 47: Unknown
+Unnamed: 48: Yes
+Unnamed: 49: Faulty
+Unnamed: 50: OK
+Unnamed: 52: 192.168.204.20
+Hardware Details: Model-698
+Unnamed: 54: 61260c40a18
+Unnamed: 55: Rackmount
+Unnamed: 56: 202W
+Unnamed: 57: 75C
+Unnamed: 58: Disabled
+Unnamed: 60: 55%
+Unnamed: 61: 51%
+Unnamed: 62: Model-146
+Software Details: 8.1.55
+Unnamed: 64: OK
+Unnamed: 65: OK
+Unnamed: 66: 192.168.244.219
+Unnamed: 67: Unknown
+Unnamed: 68: OK
+Unnamed: 69: RIP
+Performance Metrics: 77%
+Unnamed: 71: 88%
+Unnamed: 72: 63%
+Unnamed: 73: 3894 Mbps
+Unnamed: 74: 2.80%
+Unnamed: 75: 16 ms
+Unnamed: 76: 2.80%
+Unnamed: 77: 33 ms
+Unnamed: 78: 413
+Unnamed: 80: Unknown
+Configuration Management: 9.1.0
+Unnamed: 83: 2025-01-31
+Unnamed: 84: London
+Unnamed: 85: 4 changes
+Unnamed: 86: Active
+Unnamed: 87: Not Available
+Unnamed: 88: No
+Unnamed: 89: OK
+Compliance and Audit: Operational
+Unnamed: 91: 73%
+Unnamed: 92: 2025-05-29
+Unnamed: 93: Unknown
+Unnamed: 94: Unknown
+Unnamed: 95: 728
+Redundancy and Failover: Idle
+Unnamed: 97: 73 days
+Unnamed: 98: Operational
+Unnamed: 99: 610W
+Unnamed: 100: Unknown
+Unnamed: 101: 557
+Environmental Metrics: 73C
+Unnamed: 103: 38%
+Unnamed: 104: 58%
+Unnamed: 105: 224.3V
+Unnamed: 106: Operational
+Unnamed: 108: 306
+Unnamed: 109: Hyper-V
+Unnamed: 110: 96%
+Unnamed: 111: Unknown
+Cloud Integration: GCP
+Unnamed: 113: Enabled
+Unnamed: 114: 192.168.18.234
+Unnamed: 115: API Key
+Unnamed: 116: OK
+Unnamed: 117: 985
+Application Layer Details: AppC
+Unnamed: 119: 6.2.48
+Unnamed: 120: 443
+Unnamed: 121: Idle
+Unnamed: 122: 209 days
+Unnamed: 123: 299
+Protocols Supported: 1.8.7
+Unnamed: 126: Unknown
+Unnamed: 127: Unknown
+Unnamed: 128: 9.9.99
+User Management: 370
+Unnamed: 131: 980
+Unnamed: 132: 2024-09-23
+Unnamed: 133: Yes
+Unnamed: 134: Yes
+Unnamed: 135: Unknown
+Backup and Recovery: Not Available
+Unnamed: 137: 2025-05-20
+Unnamed: 138: 263 days
+Unnamed: 139: OK
+Unnamed: 140: Available
+Unnamed: 141: Idle
+Identification.1: 2025
+Unnamed: 143: 11.0

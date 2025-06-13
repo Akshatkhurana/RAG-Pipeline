@@ -1,0 +1,125 @@
+Unnamed: 0: 128.0
+Identification: NE-1448
+Unnamed: 2: f03f4458
+Unnamed: 3: Arista
+Unnamed: 4: Model-673
+Unnamed: 5: 2865ae2b856
+Unnamed: 6: 3.9.73
+Unnamed: 7: 1.9.84
+Unnamed: 8: Hyderabad
+Unnamed: 9: admin59@company.com
+Unnamed: 10: 205 days
+Unnamed: 11: 2025-06-05
+Unnamed: 12: India
+Unnamed: 13: Vodafone Idea
+Unnamed: 14: Gateway
+Unnamed: 15: 9
+Unnamed: 16: Inter-Country
+Network Interface Configuration: Unknown
+Unnamed: 18: 192.168.161.250
+Unnamed: 20: 4b:0f:ea:97:1c:dd
+Unnamed: 21: 1500
+Unnamed: 22: Operational
+Unnamed: 23: 4579 Mbps
+Unnamed: 24: OK
+Unnamed: 26: OK
+Unnamed: 27: User Access Port
+Security Configuration: Faulty
+Unnamed: 29: Unknown
+Unnamed: 30: Unknown
+Unnamed: 32: OK
+Routing Information: HTTP
+Unnamed: 34: 95
+Unnamed: 35: 192.168.236.157
+Unnamed: 36: Disabled
+Unnamed: 37: Enabled
+Unnamed: 38: 225
+Unnamed: 40: OK
+Unnamed: 41: 859 Mbps
+Unnamed: 42: OK
+Unnamed: 46: OK
+Unnamed: 47: Unknown
+Unnamed: 48: Yes
+Unnamed: 49: Active
+Unnamed: 52: 192.168.120.187
+Hardware Details: Model-137
+Unnamed: 54: c0013bd22d3
+Unnamed: 55: Standalone
+Unnamed: 56: 230W
+Unnamed: 57: 37C
+Unnamed: 58: Idle
+Unnamed: 60: 52%
+Unnamed: 61: 15%
+Unnamed: 62: Model-684
+Software Details: 9.0.54
+Unnamed: 64: Unknown
+Unnamed: 66: 192.168.207.46
+Unnamed: 67: OK
+Unnamed: 68: OK
+Unnamed: 69: SNMP
+Performance Metrics: 81%
+Unnamed: 71: 15%
+Unnamed: 72: 81%
+Unnamed: 73: 6208 Mbps
+Unnamed: 74: 0.19%
+Unnamed: 75: 74 ms
+Unnamed: 76: 0.27%
+Unnamed: 77: 77 ms
+Unnamed: 78: 794
+Configuration Management: 8.0.46
+Unnamed: 83: 2025-03-28
+Unnamed: 84: Hyderabad
+Unnamed: 85: 2 changes
+Unnamed: 86: Operational
+Unnamed: 87: Not Available
+Unnamed: 88: No
+Unnamed: 89: Unknown
+Compliance and Audit: Operational
+Unnamed: 91: 88%
+Unnamed: 92: 2024-08-19
+Unnamed: 95: 315
+Redundancy and Failover: Disabled
+Unnamed: 97: 41 days
+Unnamed: 98: Inactive
+Unnamed: 99: 922W
+Unnamed: 100: Unknown
+Unnamed: 101: 768
+Environmental Metrics: 60C
+Unnamed: 103: 39%
+Unnamed: 104: 98%
+Unnamed: 105: 128.3V
+Unnamed: 106: Inactive
+Unnamed: 108: 524
+Unnamed: 109: VMware
+Unnamed: 110: 3%
+Unnamed: 111: OK
+Cloud Integration: Azure
+Unnamed: 113: Idle
+Unnamed: 114: 192.168.104.101
+Unnamed: 115: API Key
+Unnamed: 116: OK
+Unnamed: 117: 503
+Application Layer Details: AppB
+Unnamed: 119: 1.9.82
+Unnamed: 120: 80
+Unnamed: 121: Enabled
+Unnamed: 122: 94 days
+Unnamed: 123: 227
+Protocols Supported: 7.8.51
+Unnamed: 125: Unknown
+Unnamed: 126: OK
+Unnamed: 127: Unknown
+Unnamed: 128: 9.4.75
+Unnamed: 129: OK
+User Management: 521
+Unnamed: 131: 500
+Unnamed: 132: 2024-07-15
+Unnamed: 133: No
+Unnamed: 134: Yes
+Backup and Recovery: Not Available
+Unnamed: 137: 2024-09-01
+Unnamed: 138: 5 days
+Unnamed: 140: Not Available
+Unnamed: 141: Active
+Identification.1: 2024
+Unnamed: 143: 10.0, 10.1, 10.2

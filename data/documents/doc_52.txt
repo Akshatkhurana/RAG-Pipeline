@@ -1,0 +1,132 @@
+Unnamed: 0: 49.0
+Identification: NE-8670
+Unnamed: 2: 0588f35d
+Unnamed: 3: Arista
+Unnamed: 4: Model-567
+Unnamed: 5: 7cc3e0d95eb
+Unnamed: 6: 7.9.45
+Unnamed: 7: 2.4.40
+Unnamed: 8: Bangalore
+Unnamed: 9: admin20@company.com
+Unnamed: 10: 205 days
+Unnamed: 11: 2024-09-19
+Unnamed: 12: India
+Unnamed: 13: AT&T
+Unnamed: 14: Router
+Unnamed: 15: 2
+Unnamed: 16: Local
+Unnamed: 18: 192.168.161.154
+Unnamed: 20: 26:bc:3f:e4:ce:84
+Unnamed: 21: 9000
+Unnamed: 22: Operational
+Unnamed: 23: 2169 Mbps
+Unnamed: 24: Unknown
+Unnamed: 25: OK
+Unnamed: 27: Uplink Port
+Security Configuration: Inactive
+Unnamed: 30: Unknown
+Unnamed: 31: OK
+Unnamed: 32: OK
+Routing Information: HTTP
+Unnamed: 34: 621
+Unnamed: 35: 192.168.246.88
+Unnamed: 36: Operational
+Unnamed: 37: Operational
+Unnamed: 38: 387
+Unnamed: 40: OK
+Unnamed: 41: 728 Mbps
+Unnamed: 43: Unknown
+Unnamed: 45: Unknown
+Unnamed: 46: Unknown
+Unnamed: 47: OK
+Unnamed: 48: Yes
+Unnamed: 49: Inactive
+Unnamed: 50: Unknown
+Logging Configuration: OK
+Unnamed: 52: 192.168.11.72
+Hardware Details: Model-683
+Unnamed: 54: 5274c45f874
+Unnamed: 55: Blade
+Unnamed: 56: 537W
+Unnamed: 57: 27C
+Unnamed: 58: Enabled
+Unnamed: 59: Unknown
+Unnamed: 60: 21%
+Unnamed: 61: 83%
+Unnamed: 62: Model-153
+Software Details: 3.1.26
+Unnamed: 64: Unknown
+Unnamed: 65: OK
+Unnamed: 66: 192.168.11.239
+Unnamed: 67: OK
+Unnamed: 69: RIP
+Performance Metrics: 31%
+Unnamed: 71: 60%
+Unnamed: 72: 6%
+Unnamed: 73: 6122 Mbps
+Unnamed: 74: 1.81%
+Unnamed: 75: 100 ms
+Unnamed: 76: 1.64%
+Unnamed: 77: 65 ms
+Unnamed: 78: 217
+Unnamed: 79: OK
+Unnamed: 80: OK
+Unnamed: 81: Unknown
+Configuration Management: 5.1.83
+Unnamed: 83: 2025-02-26
+Unnamed: 84: Bangalore
+Unnamed: 85: 2 changes
+Unnamed: 86: Enabled
+Unnamed: 87: Not Available
+Unnamed: 88: Yes
+Compliance and Audit: Enabled
+Unnamed: 91: 15%
+Unnamed: 92: 2024-09-23
+Unnamed: 93: Unknown
+Unnamed: 94: Unknown
+Unnamed: 95: 110
+Redundancy and Failover: Enabled
+Unnamed: 97: 92 days
+Unnamed: 98: Disabled
+Unnamed: 99: 137W
+Unnamed: 101: 802
+Environmental Metrics: 73C
+Unnamed: 103: 62%
+Unnamed: 104: 73%
+Unnamed: 105: 234.2V
+Unnamed: 106: Operational
+Virtualization Details: Unknown
+Unnamed: 108: 94
+Unnamed: 109: KVM
+Unnamed: 110: 40%
+Unnamed: 111: OK
+Cloud Integration: GCP
+Unnamed: 113: Idle
+Unnamed: 114: 192.168.154.81
+Unnamed: 115: Token-Based
+Unnamed: 116: Unknown
+Unnamed: 117: 977
+Application Layer Details: AppB
+Unnamed: 119: 6.6.79
+Unnamed: 120: 8080
+Unnamed: 121: Idle
+Unnamed: 122: 37 days
+Unnamed: 123: 44
+Protocols Supported: 2.0.3
+Unnamed: 125: Unknown
+Unnamed: 127: OK
+Unnamed: 128: 9.8.0
+Unnamed: 129: OK
+User Management: 568
+Unnamed: 131: 422
+Unnamed: 132: 2024-11-17
+Unnamed: 133: No
+Unnamed: 134: Yes
+Backup and Recovery: Not Available
+Unnamed: 137: 2025-01-15
+Unnamed: 138: 95 days
+Unnamed: 139: OK
+Unnamed: 140: Not Available
+Unnamed: 141: Enabled
+Identification.1: 2022
+Unnamed: 143: 8.0

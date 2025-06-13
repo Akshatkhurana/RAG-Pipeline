@@ -1,0 +1,127 @@
+Unnamed: 0: 31.0
+Identification: NE-5218
+Unnamed: 2: ff99e24d
+Unnamed: 3: Cisco
+Unnamed: 4: Model-213
+Unnamed: 5: d22394c33ad
+Unnamed: 6: 8.3.85
+Unnamed: 7: 1.1.88
+Unnamed: 8: Delhi
+Unnamed: 9: admin60@company.com
+Unnamed: 10: 339 days
+Unnamed: 11: 2024-12-13
+Unnamed: 12: India
+Unnamed: 13: Vodafone Idea
+Unnamed: 14: Gateway
+Unnamed: 15: 9
+Unnamed: 16: Inter-Country
+Network Interface Configuration: Unknown
+Unnamed: 18: 192.168.138.15
+Unnamed: 20: b4:ef:de:42:5d:26
+Unnamed: 21: 1500
+Unnamed: 22: Inactive
+Unnamed: 23: 9375 Mbps
+Unnamed: 25: Unknown
+Unnamed: 27: Uplink Port
+Security Configuration: Inactive
+Unnamed: 30: OK
+Unnamed: 32: OK
+Routing Information: HTTP
+Unnamed: 34: 893
+Unnamed: 35: 192.168.85.18
+Unnamed: 36: Idle
+Unnamed: 37: Inactive
+Unnamed: 38: 659
+Unnamed: 41: 208 Mbps
+Unnamed: 42: Unknown
+Unnamed: 43: OK
+Unnamed: 47: OK
+Unnamed: 48: Yes
+Unnamed: 49: Disabled
+Unnamed: 50: OK
+Logging Configuration: OK
+Unnamed: 52: 192.168.71.120
+Hardware Details: Model-883
+Unnamed: 54: 785e8375b8e
+Unnamed: 55: Rackmount
+Unnamed: 56: 295W
+Unnamed: 57: 37C
+Unnamed: 58: Idle
+Unnamed: 59: OK
+Unnamed: 60: 89%
+Unnamed: 61: 96%
+Unnamed: 62: Model-668
+Software Details: 10.0.5
+Unnamed: 64: Unknown
+Unnamed: 66: 192.168.138.127
+Unnamed: 67: Unknown
+Unnamed: 68: OK
+Unnamed: 69: BGP
+Performance Metrics: 55%
+Unnamed: 71: 34%
+Unnamed: 72: 4%
+Unnamed: 73: 8950 Mbps
+Unnamed: 74: 1.90%
+Unnamed: 75: 75 ms
+Unnamed: 76: 1.21%
+Unnamed: 77: 82 ms
+Unnamed: 78: 262
+Unnamed: 80: OK
+Unnamed: 81: OK
+Configuration Management: 8.6.26
+Unnamed: 83: 2025-05-05
+Unnamed: 84: Delhi
+Unnamed: 85: 8 changes
+Unnamed: 86: Disabled
+Unnamed: 87: Available
+Unnamed: 88: No
+Compliance and Audit: Active
+Unnamed: 91: 55%
+Unnamed: 92: 2025-04-07
+Unnamed: 93: OK
+Unnamed: 95: 435
+Redundancy and Failover: Disabled
+Unnamed: 97: 86 days
+Unnamed: 98: Operational
+Unnamed: 99: 572W
+Unnamed: 101: 585
+Environmental Metrics: 64C
+Unnamed: 103: 61%
+Unnamed: 104: 90%
+Unnamed: 105: 117.6V
+Unnamed: 106: Active
+Virtualization Details: OK
+Unnamed: 108: 818
+Unnamed: 109: Hyper-V
+Unnamed: 110: 66%
+Unnamed: 111: OK
+Cloud Integration: Azure
+Unnamed: 113: Faulty
+Unnamed: 114: 192.168.135.140
+Unnamed: 115: Token-Based
+Unnamed: 116: OK
+Unnamed: 117: 903
+Application Layer Details: AppB
+Unnamed: 119: 4.5.93
+Unnamed: 120: 8080
+Unnamed: 121: Enabled
+Unnamed: 122: 47 days
+Unnamed: 123: 446
+Protocols Supported: 10.3.22
+Unnamed: 125: Unknown
+Unnamed: 126: Unknown
+Unnamed: 127: OK
+Unnamed: 128: 3.5.63
+User Management: 136
+Unnamed: 131: 362
+Unnamed: 132: 2024-10-18
+Unnamed: 133: Yes
+Unnamed: 134: No
+Backup and Recovery: Not Available
+Unnamed: 137: 2024-08-31
+Unnamed: 138: 173 days
+Unnamed: 139: Unknown
+Unnamed: 140: Not Available
+Unnamed: 141: Faulty
+Identification.1: 2016
+Unnamed: 143: 2.0, 2.1, 2.2, 2.3

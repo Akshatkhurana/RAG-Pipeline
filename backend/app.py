@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify 
 from rag_pipeline import answer_question
 from flask_cors import CORS
 
@@ -13,11 +13,8 @@ def ask():
         return jsonify({"error": "Empty query"}), 400
 
     print(f"Received question: {query}") 
-
     answer = answer_question(query)
-
     print(f"Answer generated: {answer}") 
-
     return jsonify({"answer": answer})
 
 if __name__ == "__main__":

@@ -11,8 +11,12 @@
     <label for="query">Enter your query:</label>
     <input type="text" id="query" placeholder="e.g. What is 5G?">
     <button onclick="sendQuery()">Submit</button>
-    <div id="response"></div>
+    <div id="response-container">
+  <div id="response"></div>
+</div>
+<button id="csvBtn" style="display: none;">Download CSV</button>
   </div>
+  
   <script src="script.js"></script>
 </body>
 </html>

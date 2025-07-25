@@ -37,7 +37,7 @@ The frontend is a simple HTML page where users can:
 5. **Generation**: The top-k chunks and user query are passed to a language model (like GPT) to generate a context-aware, grounded response.
 
 ## How to run ?
-1. **Clone the repo**: https://github.com/your-username/rag-network-query.git
+1. **Clone the repo**: [Repo](https://github.com/Akshatkhurana/RAG-Pipeline?tab=readme-ov-file#backend-logic)
 2. cd rag-network-query
 3. Install Dependencies pip install -r requirements.txt
 4. Run the backend cd backend 

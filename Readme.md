@@ -38,7 +38,7 @@ The frontend is a simple HTML page where users can:
 
 ## How to run ?
 1. **Clone the repo**: [Repo](https://github.com/Akshatkhurana/RAG-Pipeline?tab=readme-ov-file#backend-logic)
-2. cd rag-network-query
+2. cd RAG-pipeline
 3. Install Dependencies pip install -r requirements.txt
 4. Run the backend cd backend 
 - cd backend

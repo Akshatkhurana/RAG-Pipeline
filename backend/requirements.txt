@@ -4,4 +4,4 @@ langchain-google-genai
 chromadb
 sentence-transformers
 flask
-python-dotenv
+python-dotenv 
